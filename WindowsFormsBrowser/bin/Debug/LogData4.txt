@@ -1,0 +1,980 @@
+Robina Group	Level 8, The Rocket, 203 Robina Town Centre Drv, Robina QLD 4226	(07) 5593 0888	http://www.robina.com.au	robina@robina.com.au
+Richardson &amp; Wrench Real Estate Blacktown	15 Flushcombe St, Blacktown NSW 2148	(02) 9621 3900	http://www.rwblacktown.com	blacktown@randw.com.au
+Village Building Co	4 Corkwood Cct, Woonona NSW 2517	(02) 4285 6982	http://www.villagebuilding.com.au	adc@estates.com.au
+Adelaide Development Company	79 Broadmeadow Rd, Broadmeadow NSW 2292	(08) 8223 1488	http://www.adelaidedevelopment.com.au	mail@lds.net.au
+Land Development Solutions Pty Ltd	Ground Floor 200 Adelaide Tce, Perth WA 6000	(02) 4963 5520	http://www.djmaccormick.com.au	info@djmaccormick.com.au
+D.J. MacCormick Property Group	Level 24 10 Eagle St, Brisbane QLD 4000	(08) 9221 5121	http://www.finance.gov.au/property/property/albury-wodonga-properties	awproperties@finance.gov.au
+Commonwealth Department of Finance	141 Murray St, Hobart TAS 7000	(02) 6021 8892	http://brownbanks.eldersrealestate.com.au	enquiries@mcconaghyproperties.com
+McConaghy Properties Pty Ltd	1st Flr Grimwade St, Mitchell ACT 2911	(07) 3236 2856	http://www.kgroup.com.au	sales@eldersbrownbanks.com.au
+Elders Brown &amp; Banks	215 Mann St, Armidale NSW 2350	(03) 6231 0400	http://www.riceconstructiongroup.com.au	info@kgroup.com.au
+Konstantinou Group	180 Lonsdale St, Melbourne VIC 3000	(02) 6262 3888	http://www.reddcon.com.au	admin@riceconstructiongroup.com.au
+Rice Developments Pty Ltd	Cnr Creekwood Ave and Hamilton St, Meridan Plains QLD 4551	(02) 6772 2820	https://www.avjennings.com.au	info@reddcon.com.au
+REDD CONSOLIDATION PTY LTD	9 Old Punt Rd, Tomago NSW 2322	(03) 9854 8388	http://www.graystone.com.au	enquiries@avjennings.com.au
+AVJennings	35 Cotham Rd, Kew VIC 3101	13 1878	http://www.emeralddowns.com.au	enquiries@graystone.com.au
+Graystone Pty Ltd	Level 2 56 Boundary St, South Brisbane QLD 4101	(07) 3368 1500	http://www.atbmorton.com.au	emeralddowns@bigpond.com
+Emerald Downs Estate &amp; Sales Office	239 Windsor St, Richmond NSW 2753	(02) 6582 2666	http://www.hartpma.com.au	enquiries@atbmorton.com.au
+ATB Morton	Level 11 213 Miller St, North Sydney NSW 2060	(02) 4961 6822	http://www.ariaproperty.com.au	info@hartpma.com.au
+HART PMA	Suite 3.07/ 46A Macleay St, Potts Point NSW 2011	(03) 9854 8366	http://www.bennettproperty.com.au	info@ariaproperty.com.au
+Aria Property Group	85 Kennedy St, Hamilton VIC 3300	(07) 3226 0111	http://www.greenprop.com.au	sales@bennettproperty.com.au
+Bennett Property	1st Floor/ 271 Mcleod St, Cairns City QLD 4870	(02) 4573 1228	http://www.frdevelopment.com.au	accounts@greenprop.com.au
+Green Property Projects	Level 1 Unit 152 41 Eastlake Parade, Kingston ACT 2604	(02) 9929 6666	http://www.d2property.com.au	info@frdevelopment.com.au
+FR Management Pty Ltd	197A High St, Thomastown VIC 3074	(02) 9361 4242	http://www.brayleyandhayes.com.au	enquiries@d2property.com.au
+D2 Property Pty Ltd	49 Hampden Rd, Nedlands WA 6009	(03) 5571 9171	http://www.ebip.com.au	bhadmin@ansonic.com.au
+Brayley &amp; Hayes	80 Webb Dr, Mount St John QLD 4818	(07) 4041 6228	http://3propertygroup.com.au	renaee@pregno.com.au
+Pregno Family Investments Pty Ltd	34 Cowper St, Footscray VIC 3011	(02) 6112 8519	http://exquisitedevelopments.com.au	hello@3propertygroup.com.au
+3PropertyGroup	Suite 702 434 St Kilda Rd, Melbourne St Kilda Rd VIC 3004	0402 834 544	http://estatesdevelopment.com.au	info@exquisitedevelopments.com.au
+Exquisite Development Pty Ltd	1 Needlebush Dr, Hayborough SA 5211	(08) 9389 4300	http://www.cowperresidences.com.au	edc@estates.com.au
+Estates Development Company	Suite 206 120 Bay St, Port Melbourne VIC 3207	(07) 4774 7880	http://www.elmstone.com.au	info@bmwebb.com
+BM Webb Property Developers	353 Crown St, Wollongong NSW 2500	(03) 9918 8595	http://www.gpf.net.au	cowper@ctrealestate.com.au
+Cowper Residences	Lvl 2, Upper Plaza, Qv 1 Bldg, 250 St Georges Tce, Perth WA 6000	1300 600 718	http://www.beyondtoday.com.au	info@elmstone.com.au
+Elmstone Properties	Real Estate Development - Ballarat, VIC 3350	(03) 9820 3000	http://ozpropertysolutions.com.au	neeraj@gpf.net.au
+Global Property and Finance Pty Ltd	Real Estate Development - Melbourne St Kilda Rd, VIC 3004	(08) 8554 2226	http://www.investa.com.au	info@beyondtoday.com.au
+Beyond Today	Real Estate Development - Hayborough, SA 5211	(03) 9676 9722		info@ozpropertysolutions.com.au
+Oz Property Solutions Pty Ltd	Real Estate Development - Port Melbourne, VIC 3207	(02) 4228 7878		info@elderswollongong.com
+Elders Real Estate	Real Estate Development - Wollongong, NSW 2500			investa@investa.com.au
+Investa Property Group	Real Estate Development - Perth, WA 6000			
+PDG Corporation	Level 17 501 Swanston St, Melbourne VIC 3000	(03) 9662 1888	http://www.pdg.com.au	infopdg@pdg.com.au
+Inside Wealth	Level 19 AMP Place 10 Eagle St, Brisbane QLD 4000	1300 309 690	http://www.insidewealth.com.au	dean@insidewealth.com.au
+Oxmar Properties	Lvl 2/ 825 Zillmere Rd, Aspley QLD 4034	(07) 3263 4977	http://www.oxmarproperties.com.au	justin@oxmarproperties.com.au
+Berton Investments Pty Ltd	1457-1459 Malvern Rd, Glen Iris VIC 3146	(03) 8823 5200	http://www.berton.com.au	info@berton.com.au
+Landcom	Level 2 330 Church St, Parramatta NSW 2150	(02) 9841 8727	http://www.landcom.com.au	righttoinfo@landcom.nsw.gov.au
+MAB Corporation Pty Ltd	Suite 502 Level 5 441 St Kilda Rd, Melbourne VIC 3000	(03) 8530 2222	http://www.mab.com.au	enquiries@mab.com.au
+Becton Property Group Limited	Level 2 289 Wellington Parade South, East Melbourne VIC 3002	(07) 4957 3020	http://www.becton.com.au	mlancucki@becton.com.au
+Cougar Developments	92 Wood St, Mackay QLD 4740	(07) 3391 1244	http://www.cougardevelopments.com.au	info@cougardevelopments.com.au
+Pitman Properties Pty Ltd	Lvl 2 651 Doncaster Rd, Doncaster VIC 3108	(03) 9840 8777	http://www.pitmanproperties.com	paul@pitmanproperties.com
+Vic Properties	17 Traeger Cl, Nhulunbuy NT 0880	(08) 8941 8366	http://www.vicproperties.com.au	admin@vicproperties.com.au
+Zenco Constructions Pty Ltd	Unit 4 85 Cavenagh St, Darwin NT 0800	(08) 9202 5242	http://www.zencoconstructions.com.au	zen@zencoconstructions.com.au
+Strangways Developments Pty Ltd	4 Gould St, Osborne Park WA 6017	1300 787 690	http://momuwa.com.au	batrob@iinet.net.au
+Lords	Level 14 380 St Kilda Rd, Melbourne St Kilda Rd VIC 3004	(03) 9741 1511	http://www.webuyland.net.au	sales@momuwa.com.au
+We Buy Land	73 Watton St, Werribee VIC 3030	(02) 8355 6783	http://reliancere.com.au	genxcampbell@gmail.com
+Reliance Real Estate	Level 3 45-51 Cross St, Double Bay NSW 2028	1300 724 723	http://www.sydneysothebysrealty.com/Home.php	reception@reliancere.com.au
+Sotheby's International Realty	6 Lexington Dr, Burnside VIC 3023	(02) 9875 7100	http://www.modeina.com.au	admin@sydneysothebysrealty.com
+Modeina	246 Glen Eira Rd, Elsternwick VIC 3185	(03) 9028 2253	http://www.vecs.com.au	info@modeina.com.au
+VECS AUST PTY.LTD	61 Shailer Rd, Shailer Park QLD 4128	(08) 6444 9930	https://www.mysmdcsales.com	arthur@vecs.com.au
+mySMDCsales	Shop 2 211 Ron Penhaligon Way, Robina QLD 4226	(03) 9988 2148	http://www.starrywell.com.au	mysmdcsales@gmail.com
+Starrywell	365 Lt Collins St, Melbourne VIC 3000	(07) 3480 9000	http://www.greythorne.com.au	tick@starrywell.com
+Greythorne Group Pty Ltd	Suite 1 389 Oxford St, Mt Hawthorn WA 6016	(08) 9315 2874	https://sterlingfirstgoldcoast.com.au/welcome	info@greythorne.com.au
+Sterling First Gold Coast	7 Techno Park Dr, Williamstown VIC 3016	1300 668 183	http://www.astorinvestments.com	sterlingfirstgoldcoast@gmail.com
+Astor Investments	2 Lakefield Drive, North Lakes QLD 4509	(08) 9480 1500	http://azureluxuryhomes.com.au	info@astorinvestments.com
+Azure Luxury Homes	Suite 27 135 Riseley St, Booragoon WA 6154	(03) 9696 2377	https://propertybysabau.com.au	sales@azureluxuryhomes.com.au
+Property By Sabau	69 Adelaide Tce, East Perth WA 6004	(03) 6328 1122	http://www.stockland.com.au	nick@propertybysabau.com.au
+Stockland	Ground Floor 50 Colin St, West Perth WA 6005	(03) 5445 7800	http://www.emmaus.net.au	geninfo@stockland.com.au
+Emmaus Projects Pty Ltd	Level 19/ Suite 3/ 350 St Kilda Rd, Melbourne VIC 3004	(08) 9358 5231	http://www.pkinternational.com.au	mail@emmaus.net.au
+PK International Real Estate Agents	47 Rostella Rd, Dilston TAS 7252		http://www.frasersproperty.com.au	charoen@pkinternational.com.au
+Frasers Property Australia	57A Queen St, Bendigo VIC 3550		http://www.cedarwoods.com.au	queensreception@frasersproperty.com.au
+Cedar Woods Properties Ltd	25 Parkhill Way, Wilson WA 6107		http://www.somertonlogisticscentre.com.au	email@cedarwoods.com.au
+Somerton Logistics Centre	22 Mckay Cl, Wetherill Park NSW 2164		http://www.landsurveyor.com.au	nthunt@bigpond.net.au
+Land Surveying Solutions Pty Ltd	Real Estate Development - Dilston, TAS 7252		http://www.yourland.com	vcochrane@landsurveyor.com.au
+Your Land Developments	Real Estate Development - Bendigo, VIC 3550		http://www.stockland.com.au	mark@yourland.com
+Stockland	Real Estate Development - Wilson, WA 6107		http://zebranohomes.com.au	geninfo@stockland.com.au
+Zebrano Homes	Real Estate Development - Wetherill Park, NSW 2164			jlagan@snapesaustralia.com.au
+Gregory Hills	18 McKenzie Blv, Gregory Hills NSW 2557	(02) 4648 5511	http://www.dartwest.com.au/latest-media/nc/Press_Releases	info@gregoryhills.com.au
+Q M Properties Group Pty Ltd	Level 10 345 Ann St, Brisbane QLD 4000	(07) 3874 0000	http://www.qm.com.au	enquiry@qm.com.au
+EkkoPoint Properties	1C Grand Ave, Rosehill NSW 2142	(07) 3229 2222	http://www.ethicalconsulting.com	info@ethicalconsulting.com
+AKA Property Group Pty Ltd	Suite 112 20 Dale St, Brookvale NSW 2100	(02) 9938 6876	http://www.akacivil.com.au	katia@akacivil.com.au
+Made Property Group	Shop 2/ 18-22 Anzac Parade, Yeppoon QLD 4703	(07) 5531 8188	http://www.madeproperty.com.au	info@madeproperty.com.au
+Emandar Group	301 Castlereagh St, Sydney NSW 2000	1300 843 746	http://www.emandar.com.au	info@emandar.com.au
+360 Boat Finance	332 South Rd, Hampton East VIC 3188	(02) 8599 7945	http://www.thepinesyeppoon.com.au	info@tensmachinesaustralia.com.au
+BPI Sydney	Level 1/ 252 Graham St, Port Melbourne VIC 3207	(03) 9555 9821	http://www.bpisydney.com.au	admin@bpisydney.com.au
+BPM	20 Gympie Rd, Tin Can Bay QLD 4580	(03) 9041 9131	http://www.bpmcorp.com.au	reception@bpmcorp.com.au
+Resolution Propety Group Pty Ltd	Wilsonton Shopping Centre 407 Bridge St, Toowoomba QLD 4350	0418 749 723	http://www.resolutionpg.com.au	info@resolutionpg.com.au
+Tuncunba Gated Estate	9-11 Wascoe St, Leura NSW 2780	(07) 4633 0555	http://www.tuncunba.com.au	enquiries@tuncunba.com.au
+Clive Berghofer Land Sales	Level 17 158 St Georges St, Perth WA 6000	(08) 9468 5040	http://www.cliveberghofer.com.au	mail@cliveberghofer.com.au
+Leura Gardens - Contemporary new townhouses in Leura	Shop 3 2 Brook St, Sunbury VIC 3429	(03) 9744 2244	http://leuragardens.com.au	info@leuragardens.com.au
+House &amp; Land Packages Perth	Unit 5 9 Church St, Hawthorn VIC 3122	(03) 9853 1388	http://house-and-land-packages-perth.com.au	houseandlandpackagesperth@gmail.com
+Leading Real Estate	Suite 5 209 Toorak Rd, South Yarra VIC 3141	(03) 9824 1888	http://www.leadingrealestate.com.au/contact	adam.sacco@leadingrealestate.com.au
+OZ PROPERTY GROUP	Site 15 49 Lake Rd, Champion Lakes WA 6111	(08) 9390 3909	http://ozpropertygroup.com.au	info@ozpropertygroup.com.au
+888 Property Group	24 Redman Rd, Dee Why NSW 2099	(02) 8034 6842	http://www.888propertygroup.com.au	michael@888propertygroup.com.au
+Champion Lakes Lifestyle Village	Level 7 2 Corporate Ct, Bundall QLD 4217	(07) 5592 6868	http://www.championlakeslifestylevillage.com.au	info@championlifestyle.com.au
+Redman Property	21 Litera Ct, Palm Cove QLD 4879	1300 723 187	http://www.redmanproperty.com.au	info@redmanproperty.com.au
+NU-DEV	791 Bourke St, Docklands VIC 3008	(03) 8610 4800	https://www.nu-dev.com.au/contact	info@nu-dev.com.au
+Argentea	Lvl 14/ 257 Collins St, Melbourne VIC 3000	(03) 9660 9000	http://www.argentea.com.au	info@argentea.com.au
+Victoria Harbour Sales &amp; Display Centre	102 Alexander St, Crows Nest NSW 2065	(08) 8431 4888	http://www.victoriaharbour.com.au	victoriaharbour@lendlease.com
+Hallmarc Ltd	405 Montague Rd, West End QLD 4101	1300 329 374	http://www.hallmarc.com.au	info@hallmarc.com.au
+help develop my property	Ste 803/ 60 York St, Sydney NSW 2000	(07) 3115 0300	http://www.hdmp.com.au	adam@hdmp.com.au
+Fiducia Property Group	Lvl 1/ 800 Kingsford Smith Dr, Eagle Farm QLD 4009	(02) 9279 1818	http://www.fiducia.com.au	sales@fiducia.com.au
+Pradella Developments PTY LTD	38 Brookhollow Ave, Baulkham Hills NSW 2153	(07) 3040 5286	http://www.pradella.com.au	info@klfgroup.com.au
+KLF Group Pty Ltd	Unit 2A/ 19 Lindaway Pl, Tullamarine VIC 3043	1300 933 361	http://www.klfgroup.com.au	linda@projectmarketingaustralia.com.au
+Project Marketing Australia	23 James St, Fortitude Valley QLD 4006	(07) 4055 6040	http://www.projectmarketingaustralia.com.au	support@smsf.me
+SMSF Property Capital	111 Clarendon St, Southbank VIC 3006	(07) 3250 0500	http://www.smsfproperty.net.au	angus.suter@beaumontstrata.com.au
+Angus Suter	3 Hudd St, Bowen Hills QLD 4006	(03) 8102 0200	http://www.stratamanagerssydney.com.au	domenic@landeq.com.au
+Landeq	Real Estate Development - Tullamarine, VIC 3043		http://www.landeq.net.au	bluewatersales@au.brookfield.com
+Bluewater	Real Estate Development - Trinity Park, QLD 4879		http://www.bluewaterliving.com.au	lancini@lancinigroup.com.au
+Lancini Property &amp; Development	Real Estate Development - Fortitude Valley, QLD 4006		http://www.lancinigroup.com.au	southbank.vic@raywhite.com
+Ray White Southbank	Real Estate Development - Southbank, VIC 3006		http://raywhitesouthbank.com.au	data@workstores.com.au
+The Workstores	Real Estate Development - Bowen Hills, QLD 4006		https://workstores.com.au	
+Darwin Corporate Park	141 Mitchell St, Larrakeyah NT 0820	(08) 8924 0888	http://www.darwincorporatepark.com.au	charles.burkitt@darwincorporatepark.com.au
+Zaina Stacey	13 Avenue Rd, Frewville SA 5063	(08) 8379 7979	http://www.zainastacey.com.au	planning@zainastacey.com
+Kilcor	Level 17 12 Creek St, Brisbane QLD 4000	(07) 3221 9952	http://kilcor.com.au	info@kilcor.com.au
+Kingsmore Residential Estate	80 Cordyline Dr, Reedy Creek QLD 4227	(07) 5522 0188	http://www.kingsmoreestate.com	sales@kingsmoreestate.com
+Lechaim Pty Ltd	80 Cordyline Dr, Reedy Creek QLD 4227	(07) 5522 0188	http://www.kingsmoreestate.com	sales@kingsmoreestate.com
+Building Inspections Adelaide	40/ 422 Pulteney St, Adelaide SA 5000	(08) 7009 4479	http://www.buildinginspectionsadelaide.net.au	otheliabraindxe@yahoo.com
+DMJ Consultancy Pty Ltd	31 Sirocco St, Jamboree Heights QLD 4074	(07) 3279 7718	http://www.dmjpropertyconsultancy.com.au	david@dmjconsultancy.com.au
+Lion Land Marketing	287 Hunter St, Newcastle NSW 2300	(07) 3868 4646	http://www.lionlandmarketing.com.au	Klaus@lionlandmarketing.com.au
+Paul Evrat Property Development Manager	50 Hindmarsh Sq, Adelaide SA 5000	(02) 4340 1002	http://www.paulevrat.com	paul@paulevrat.com
+Central Coast Regional Development Corporation	86 Lamb St, Murgon QLD 4605	(02) 4926 5111	http://www.ccrdc.nsw.gov.au	info@ccrdc.nsw.gov.au
+Street Property Management	102 South Rd, West Hindmarsh SA 5007	(08) 8100 0900	http://www.street.net.au	street@sres.com.au
+Metro Property Development SA	39 Union St, Nundah QLD 4012	(07) 4168 1600	http://www.metropropsa.com.au	metropropsa@yahoo.com
+Across Country Real Estate &amp; Livestock	Lvl 7 175 Eagle St, Brisbane QLD 4000	0419 832 368	http://www.acrosscountry.com.au	acre.murgon@bigpond.com
+Civil Surveys &amp; Design Pty Ltd	Level 2 66 Wentworth Ave, Surry Hills NSW 2010	(08) 8340 2207	http://www.civilsurveys.com.au	info@civilsurveys.com.au
+Pinksterboer &amp; Associates	53 Riverside Dr, Riverside NSW 2444	(07) 3630 4570	http://www.investinproperty.net.au	gavin@investinproperty.net.au
+Gardner Vaughan Group Pty Ltd	Level 21/ 357 Collins St, Melbourne VIC 3000	(07) 3229 8350	http://gardnervaughangroup.com.au	info@gvg.com.au
+Consolidated Properties Group Pty Ltd	537 Sayers Rd, Hoppers Crossing VIC 3029	(02) 8316 9100	http://www.consolidatedproperties.com.au	reception@conspropgroup.com.au
+Coronation Property Co. Pty Ltd	2 Jubilee Dr, Port Lincoln SA 5606	(03) 9629 6662	http://coronation.com.au	info@coronation.com.au
+Crestwood Heights Land Sales	Suite 1 Level 6 580 St Kilda Rd, Melbourne VIC 3004	1300 094 800	http://www.crestwoodheights.com.au	tony@crestwoodheights.com.au
+EIG Developments	106-108 Ashley St, Torrensville SA 5031	(03) 9207 8000	http://www.eigdevelopments.com.au	admin@eigdevelopments.com.au
+Halal Homes	1140 Wanneroo Rd, Ashby WA 6065	(08) 8364 9600	http://www.halalhomes.com.au	info@halalhomes.com.au
+Sarin Group Property	62 Flinders St, Wollongong NSW 2500	(08) 9404 5011	http://www.saringroup.com.au	afe1@bigpond.com.au
+Richmond Horizons Pty Ltd Land Sales	927-929 North East Rd, Modbury SA 5092	(02) 4227 6888	http://www.crestwoodheights.com.au	tony@crestwoodheights.com.au
+Intrapac Project Pty Ltd	25 Discovery Dr, North Lakes QLD 4509	(08) 7080 7195	http://intrapac.com.au	info@intrapac.com.au
+Alpha14 Property Group, Toby Pope	20/ 135 Cardigan St, Carlton VIC 3053	(07) 3482 4333	http://alpha14.com.au	projects@alpha14.com.au
+KAS Property Development Group	Oracle West, Level 1, 19 Elizabeth Street Broadbeach 4218, Broadbeach QLD 4218	(07) 5588 8888	http://kasdev.com	reception@kasdev.com.au
+Lake Joondalup Lifestyle Village	88 Cranwell Rd, Summertown SA 5141	(08) 8390 0099	http://www.nlv.com.au/our-villages/lake-joondalup	lakejoondalup@nlv.com.au
+Molnar Property Group	266 Green St, Ulladulla NSW 2539	(02) 4454 4895	http://www.molnarpropertygroup.com	enquiries@molnarpropertygroup.com
+Stunning Homes	3 Montgomery St, Rural View QLD 4740	(07) 4954 9700	http://www.stunninghomes.com.au	info@stunninghomes.com.au
+Keymax Property Group	Real Estate Development - North Lakes, QLD 4509		http://www.keymax.com.au	admin@keymax.com.au
+In2Land Developments	Real Estate Development - Carlton, VIC 3053		http://www.in2land.com.au	bronson@in2land.com.au
+Villa World Group	Real Estate Development - Broadbeach, QLD 4218		http://www.villaworld.com.au	info@villaworld.com.au
+Andrew Davidson Property Development Consultants	Real Estate Development - Summertown, SA 5141		http://www.plantationpalms.com.au	mail@rygateandwest.com.au
+Rygate &amp; West	Real Estate Development - Ulladulla, NSW 2539			
+Plantation Palms Properties Pty Ltd	Real Estate Development - Rural View, QLD 4740			
+Hillscorp Developements	Unit 3 1 The Esplanade, Maroochydore QLD 4558	(07) 5443 5722	http://www.hillscorp.com	property@tancred.ws
+Building Inspections Melbourne VIC	602/ 530 Little Collins St, Melbourne VIC 3000	(03) 9039 5089	http://www.buildinginspectionsmelbournevic.net.au	ja48bedford@gmail.com
+Walker Corporation Pty Ltd	Governor Macquarie Tower Level 21 1 Farrer Pl, Sydney NSW 2000	(02) 8273 9600	http://www.walkercorp.com.au	alvinjingxu@gmail.com
+Whitehall Group Of Companies	Lvl 15/Suite 1502 101 Grafton St, Bondi Junction NSW 2022	(02) 9388 0078	http://www.whitehallpropertygroup.com.au	jpala@paladevelopments.com.au
+Tancred Management Pty Ltd	36b Jacana St, Peregian Beach South QLD 4573	(07) 3260 3800	http://www.peregiansprings.com.au	minghe1003@gmail.com
+Bedford Properties Pty Ltd	Corner Of Peregian Springs Drive and Longwood Drive, Peregian Springs QLD 4573	(07) 5448 2690	http://pacificpalmssignature.com.au/index-tess1.php	admin@nkwp.com.au
+Peregian Springs	210 Charlotte Bay St, Charlotte Bay NSW 2428	(02) 6554 0980	http://www.peet.com.au	russell@founded.com.au
+Pacific Palms Signature Properties	260 Lava St, Warrnambool VIC 3280	1300 799 063	http://www.landpro.com.au	susan.mcdade@mcconaghygroup.com
+Build in Warrnambool	Level 50 120 Collins St, Melbourne VIC 3000	(03) 9888 3261	http://www.dalealcock.com.au	lee@lctp.com.au
+Land Layby Australia Pty Limited	Unit 2 44 Melinga Cres, Chadstone VIC 3148	0432 615 611	http://au.goodman.com	info@orchardpiper.com.au
+JXTW Investment pty ltd	11A Waldron Rd, Sefton NSW 2162	(02) 8677 4452	http://www.citiko.com.au	almort@westnet.com.au
+Pala Developments Pty Ltd	Lvl 3 167 Eagle St, Brisbane QLD 4000	(07) 3137 2040	http://www.praegers.com.au	peter@mvppropertygroup.com.au
+Mingo Investment Group	5 Murdoch St, Coffs Harbour NSW 2450	(02) 9826 8100	http://www.street.net.au	
+Peet Limited	5 Huskisson St, Prestons NSW 2170	(08) 9242 9500	http://www.atherstone.com.au	
+Newnham Karl Weir &amp; Partners	1 Pearson Way, Osborne Park WA 6017	(02) 9230 7400	http://www.denniscorp.com.au	
+Landpro Corporation Pty Ltd	Level 17 60 Castlereagh St, Sydney NSW 2000	(08) 9349 0200	http://www.spechomesdirect.com.au	
+Dale Alcock Development Solutions	Suite 1 230 Main St, Osborne Park WA 6017	(07) 3854 4100	http://www.norfolkgroup.com.au	
+Goodman	Shop 2/ 346 Port Hacking Rd, Caringbah NSW 2229	(02) 4926 3933	http://www.missionbeachrealestate.com.au	
+Founded	Lvl 12/ 345 Queen St, Brisbane QLD 4000	1800 981 644	http://www.keypropertynetwork.com.au	
+Citiko Developments	426 Hunter St, Newcastle NSW 2300	(07) 3457 8600	http://www.seavista.com.au	
+Praeger Ellem Solicitors	Corner Of Bridge Road and Astley Drive, Melton South VIC 3338	(07) 3248 8000	http://azuno.com.au/index2.php	
+Street Real Estate	B 1 2404 Logan Rd, Eight Mile Plains QLD 4113	(02) 9977 2066		
+Atherstone Sales Information &amp; Centre	345 Queen St, Brisbane QLD 4000	(07) 4088 6611		
+Dennis Family Corporation	30 Pine Valley Dr, Robina QLD 4226	(03) 9820 0004		
+Mcconaghty Group P/L	6a/ 48 Berry St, Nowra NSW 2541	(02) 9826 7799		
+Spec Homes Direct	Level 1 53 Pittwater Rd, Manly NSW 2095	(07) 5445 8222		
+Lee Carmichael Town Planning	8 Porter Prom, Mission Beach QLD 4852	0407 159 758		
+Norfolk Propery Group Pty Ltd	First Floor 101 Toorak Rd, South Yarra VIC 3141			
+Mission Beach Real Estate	50 Christian St, Babinda QLD 4861			
+OrchardPIPER	57 Lakeway Dr, Kingsley WA 6026			
+National Home and Land Sales Pty Ltd	99 Musgrave Rd, Red Hill QLD 4059			
+Seavista	Real Estate Development - Kunda Park, QLD 4556			
+EdenGlen Residential Estate Babinda Pty Ltd	Real Estate Development - Babinda, QLD 4861			
+MVP Property Group	Real Estate Development - Kingsley, WA 6026			
+Azuno Developments	Real Estate Development - Red Hill, QLD 4059			
+Premium Granny Flats	16 Hunter St, Parramatta NSW 2150	1300 303 420	http://www.frasersproperty.com.au	premiumgrannyflat@gmail.com
+Westbrook Estate	Suite 201 7 Railway St, Chatswood NSW 2067	(02) 9807 2830	http://www.australand.com.au	info@westbrookestate.com.au
+WAN SHENG INVESTMENT PTY LTD	Unit 604a 1-5 Railway St, Chatswood NSW 2067	(02) 8964 6222	http://www.instantaccess.com.au	baixue-lsm@hotmail.com
+Vigor Management Pty Ltd	Lvl 11/ 488 Kent St, Sydney NSW 2000	(02) 8823 8800	http://www.keypropertynetwork.com.au	info@vigorcapital.com.au
+Frasers Property Australia	338 Albany Hwy, Victoria Park WA 6100	(08) 9362 6333	http://www.satterley.com.au	pconti@conticonsult.com.au
+Conti Consult	Level 2 115 Cambridge St, West Leederville WA 6007	(08) 9214 7900	http://www.prestigerealty.com.au	susanna1@iinet.net.au
+Australand	22 Power St, Kawana QLD 4701	(07) 4921 3133	http://www.savills.com.au	srobertson@prmproperty.com.au
+Instant Access Australia	27-31 Troode St, West Perth WA 6005	(02) 9826 7799	http://www.denniscorp.com.au	shane@hbuproperty.com.au
+Key Property Network	Shop 3/ 110 Great North Rd, Five Dock NSW 2046	(08) 9368 9000	http://www.wealthbuilders.com.au	meccs@bigpond.net.au
+Satterley Property Group	60 High St, Southport QLD 4215	(02) 9713 2811	http://www.green-group.net	info@justinvestau.com
+Prestige Realty Group &amp; WW Realestate	211 Waverley Rd, Malvern East VIC 3145	(07) 5510 9472	http://www.propertypulse.com.au	nicolayang@hotmail.com
+Nexgen Corporation Pty Ltd	19 Hardy St, South Perth WA 6151	(08) 8237 5000	http://www.molonglogroup.com.au	slinford@adelin.net.au
+Savills	Unit 1 42 Smith St, Capalaba QLD 4157	(03) 9573 1189	http://www.devine.com.au	gary@semaan.net
+Dennis Family Corporation	7027 Southport Nerang Rd, Nerang QLD 4211	(08) 6141 4300	http://www.dealcorp.com.au	
+PRM Property Group	Heidke St, Bundaberg QLD 4670	(07) 3828 4458	http://www.watsonpropertygroup.com	
+HBU Property	Ground Floor 85 Coventry St, South Melbourne VIC 3205	(07) 5527 4999	http://www.fkp.com.au	
+JLF Corporation Pty Ltd	Ground Floor 155 Cremorne St, Cremorne VIC 3121	(07) 4131 9800	http://www.backyardbuyers.com.au	
+Green Group The	154 Fullarton Rd, Rose Park SA 5067	(02) 9119 2857	http://www.accordpg.com.au	
+Property Pulse Pty Ltd	16 Seascape Ct, Tallai QLD 4213	(02) 8385 3102	http://www.mider.com.au	
+Merida Apartments	Unit 6/ 110 Erindale Rd, Balcatta WA 6021	(02) 6126 1300	http://www.tlcrealestate.com.au	
+Corest Pty Ltd	Level 5 120 Edward St, Brisbane QLD 4000	13 1363		
+YJ LAFA Pty Ltd	30 Stintons Rd, Park Orchards VIC 3114	(03) 9826 2650		
+Molonglo Group Pty Ltd	23 Shierlaw Ave, Canterbury VIC 3126	(08) 8361 3300		
+Devine Homes	Level 35 600 Bourke St, Melbourne VIC 3000	(07) 5530 4924		
+Deal Corporation Pty Ltd	88 Lachlan St, Hay NSW 2711	(08) 9240 8011		
+Adelin Pty Ltd	Unit 2/ 1 Alvan St, Mt Lawley WA 6050	(07) 3223 3888		
+Pacific Building Solutions (Australia) Pty Ltd	Unit 51 47 Neridah St, Chatswood NSW 2067	1300 575 828		
+Watson Property Group Pty Ltd	Real Estate Development - Balcatta, WA 6021	(03) 9830 7722		
+FKP Limited	Real Estate Development - Brisbane, QLD 4000	(03) 8688 6100		
+Backyard Buyers	Real Estate Development - Park Orchards, VIC 3114	(02) 6933 1333		
+Accord Property Group Pty Ltd	Real Estate Development - Canterbury, VIC 3126	(08) 9272 1736		
+Mider Pty Ltd	Real Estate Development - Melbourne, VIC 3000	(02) 8668 5607		
+TLC Real Estate	Real Estate Development - Hay, NSW 2711			
+A R Williams &amp; Partners	Real Estate Development - Mt Lawley, WA 6050			
+Direct Focus Management &amp; Investment Pty Ltd	Real Estate Development - Chatswood, NSW 2067			
+Pacific Shopping Centres Australia Pty Ltd	158 City Rd, Southbank VIC 3006	(03) 9695 8700		
+Emerald Springs Mooloolaba	388 Lutwyche Rd, Windsor QLD 4030	(07) 5444 7144		
+Pure Rentals Property Management	5 Hovea Ct, Shailer Park QLD 4128	(07) 5577 6500		
+Austranquility Homes	level 1 74 Emmett St, Smithton TAS 7330	(03) 6415 4004		
+Mulpha Sanctuary Cove Pty Ltd	Main St, Samford QLD 4520	(03) 9663 9639		
+Little Lion Holdings Pty Ltd	179 Lake Rd, Port Macquarie NSW 2444	(07) 3289 1122		
+Shunshunli Pty Ltd	Suite 4 240 Plenty Rd, Bundoora VIC 3083	(02) 6581 1267		
+Ray White Samford	18/ 22 Ozone St, Cronulla NSW 2230	(03) 9466 8602		
+Newton J Construction Pty Ltd	117 Murray St, Pyrmont NSW 2009	(02) 9518 9160		
+GBL Property Consultants	Lvl 12/ 309 Pitt St, Sydney NSW 2000	(02) 8262 6388		
+Realm Homes Pty Ltd	43 Philip St, Sydney NSW 2000	(02) 9225 7880		
+Beljen Developments Pty Ltd	28 Painters Lane, Terrigal NSW 2260	(02) 4385 1865		
+Domain Properties	8 Doust St, Cannington WA 6107	1300 735 501		
+Barnsdale Pty Ltd	371 High St, Penrith NSW 2750	(02) 4731 2899		
+Elle Developments	Level 17 240 Queen St, Brisbane QLD 4000	(07) 4152 8800		
+Charles, Graeme Property Developer	Unit 3/ 3 Piccolo Pl, Halls Head WA 6210	(07) 3002 0000		
+BBV Co	145 Esplanade St, Port Noarlunga SA 5167	(08) 9586 2215		
+Stanton &amp; Taylor First National	15- 17 Glinden Ave, Ardeer VIC 3022	0408 844 528		
+Green Group The	Lvl 2/ 2 Holden Pl, Bundall QLD 4217	(07) 5510 3085		
+Brookfield Multiplex	59 Loftus St, Riverstone NSW 2765	(02) 9627 3357		
+Abletek Coproration Pty Ltd	Lvl 20/ 260 Queen St, Brisbane QLD 4000	(07) 3226 8799		
+Copperbeach Pty Ltd	70 Alfred St, Milsons Point NSW 2061	(02) 9629 8199		
+G.S.A. Investments Pty Ltd	48A Nollamara Ave, Nollamara WA 6061	(02) 9959 3488		
+Chardan Development Group Gold Coast	Ste 4/ 270 Ferntree Gully Rd, Notting Hill VIC 3168	(08) 9440 5318		
+Tibune Pty Ltd	Baden Powell St, Maroochydore QLD 4558	(03) 9501 5588		
+Seymour Group Pty Ltd	14/ 50 Parkland Rd, Mona Vale NSW 2103	(07) 5479 1731		
+Australand Properties	Lvl 3/ 209 Oxford St, Bondi Junction NSW 2022	(02) 9979 1566		
+Davlon Consultants Pty Ltd	Smith St, Southport QLD 4215	(02) 8324 1000		
+DJI Property Pty Ltd	6 Aurelia St, Toongabbie NSW 2146			
+Omnico Corporation Pty Ltd	Real Estate Development - Notting Hill, VIC 3168			
+Christawood Pty Ltd	Real Estate Development - Maroochydore, QLD 4558			
+Marina Bay Developments Pty Ltd	Real Estate Development - Mona Vale, NSW 2103			
+Harbour&amp; Co Pty Ltd	Real Estate Development - Bondi Junction, NSW 2022			
+Down Under Development Marketing	Real Estate Development - Southport, QLD 4215			
+Propertynet Australasia	Real Estate Development - Toongabbie, NSW 2146			
+Propertynet Australasia	6 Aurelia St, Toongabbie NSW 2146	1300 786 289		
+Yanchep Sun City Infoline	11 Illowra Way, Duncraig WA 6023	(08) 9448 5400		
+M &amp;amp M Jelesic Family Trust	2/ 20 Magill Rd, Norwood SA 5067	0408 817 787		
+Mitrac Pty Ltd	64 Rosebery Rd, Killara NSW 2071	(02) 9498 3118		
+Gilmour Subdivisions	28 Matthews Way, Wakerley QLD 4154	(07) 3890 2622		
+Conrads Developments	1 Gee Ct, Nunawading VIC 3131	(03) 9893 4757		
+Smart Property Development	1 Settler's Blv, Liberty Grove NSW 2138	(02) 9743 6544		
+Liberty Grove Marketing Pty Ltd	47 Falcon St, Crows Nest NSW 2065	(02) 9214 6777		
+Eden Developments Pty Ltd	Ste 19 / 513 Hay St, Subiaco WA 6008	(08) 9388 9766		
+DEVWEST Group	14 Burwana Pl, Wellington Point QLD 4160	1800 155 446		
+Evvien	28 Foveaux St, Surry Hills NSW 2010	(07) 5444 1333		
+Stockland Residential Development	Lvl 3/ 55 York St, Sydney NSW 2000	(07) 3822 5410		
+Summus Investors Group	3131 Surfers Paradise Blv, Surfers Paradise QLD 4217	(02) 9211 7611		
+St Johnson Pty Ltd	Shop 1 38 Aitken St, Gisborne VIC 3437	(02) 9299 1233		
+Grose Property Holdings (Sydney)	381 Cross Rd, Edwardstown SA 5039	(07) 5592 1418		
+Tooma &amp; Tooma Property Consultants Pty Ltd	7th Flr 123 Eagle St, Brisbane QLD 4000	(03) 5428 4777		
+Jacksons Creek Estate Sales Centre	272 Foreshore Dr, Geraldton WA 6530	(08) 8371 2800		
+Carter Bros	190 Old Pitt Town Rd, Box Hill NSW 2765	(07) 3231 2211		
+Ray White Commercial (Queensland)	2 Pembroke St, Epping NSW 2121	(08) 9964 8028		
+Humfrey Land Developments	600 Bourke St, Melbourne VIC 3000	(02) 9679 1400		
+Gangemi Australia National Pty Ltd	66 Warrenlee Dr, Albury NSW 2640	(02) 9868 1688		
+Residential Project Marketing-RPM	Ground Floor 12 Newcastle St, Perth WA 6004	(07) 5502 8005		
+Big Sky Sales Office	51 Reily St, Woolloomooloo NSW 2011	(03) 9653 9497		
+Instant Access Australia	51 Volga St, Hadfield VIC 3046	(02) 6021 6551		
+Briggs B &amp; N	Suite 18 Pacific Centre 223 Calam Rd, Sunnybank Hills QLD 4109	(08) 9325 9500		
+Ionic Property Group Pty Ltd	97 Creek St, Brisbane QLD 4000	(02) 8302 1400		
+Rose Pty Ltd	Lvl 31 459 Collins St, Melbourne VIC 3000	(07) 5502 1875		
+A.J. Murray Constructions Pty Ltd	Shop 24/ 340 Military Rd, Cremorne NSW 2090	(07) 3272 5177		
+Peter Mills Property Development Pty Ltd	Unit 9/ 69 Hay St, Subiaco WA 6008	(07) 3229 4515		
+Feelding Pty Ltd	Real Estate Development - Hadfield, VIC 3046	(03) 9613 9999		
+JHC Development Group	Real Estate Development - Sunnybank Hills, QLD 4109	(08) 9380 9211		
+N A C Investments (Qld) Pty Ltd	Real Estate Development - Brisbane, QLD 4000			
+Juiliard Group Of Companies	Real Estate Development - Melbourne, VIC 3000			
+Stacey Leo	Real Estate Development - Cremorne, NSW 2090			
+Property Development Solutions	Real Estate Development - Subiaco, WA 6008			
+Property Development Solutions	Unit 9/ 69 Hay St, Subiaco WA 6008	(08) 9380 9211		
+Robert Dunnet Pty Ltd	Suite 28 Chatswood Village Oscar St, Chatswood NSW 2067	(02) 9410 0050		
+Hunter Land Pty Ltd	1/ 11 Glenwood Dr, Thornton NSW 2322	(02) 4966 4966		
+Quest Services Pty Ltd	77 Bay St, Port Melbourne VIC 3207	(03) 9018 2889		
+Catilyst Pty Limited	1 Belle O'connor Dr, South West Rocks NSW 2431	(03) 9646 5770		
+Power Street Industrial Complex	Unit 1 13 Gate St, Kootingal NSW 2352	(07) 4927 3204		
+Seascape Grove	5 Pope St, Hobart TAS 7000	(02) 6566 6114		
+Kootingal Real Estate	450 George St, Sydney NSW 2000	(02) 6760 3755		
+Australian Major Projects Group. www.ampg.com.au	13 Boughton Ave, Tullimbar NSW 2527	(02) 9261 2266		
+Sydney Central Plaza	Lvl 4/ 35 Cotham Rd, Kew VIC 3101	(02) 4256 1677		
+Tullimbar Village Information Centre	1 Fairwater Dr, Harrington Park NSW 2567	(03) 9854 8555		
+PCL	55 Berry St, Nowra NSW 2541	(02) 4647 3200		
+Harrington Park Estate	25 Willcock St, Ardross WA 6153	(02) 4422 2866		
+Invoka Pty Ltd	16 Waratah St, Kirrawee NSW 2232	(08) 9316 8388		
+Tuscom Subdivision Consultants Pty Ltd	1 Orlando Crst, Voyager Point NSW 2171	(02) 9545 1370		
+L E Stewart Investments Pty Ltd	Level 1 168 Stirling Hwy, Nedlands WA 6009	(02) 9773 1000		
+Delfin Ltd	24 Newquay Prom, Docklands VIC 3008	(02) 4869 1604		
+Clarke R E J &amp; Associates Pty Ltd	2-6 Trade Park Dr, Tullamarine VIC 3043	(08) 9312 3111		
+Winlord Pty Ltd	Suit 1/ 40 Edward St, Brisbane QLD 4000	1300 555 033		
+Eurama Vision Australia Pty Ltd	89 King William St, Adelaide SA 5000	(03) 9330 1700		
+Innovative Property Investments	5 Petersen Ave, Southport QLD 4215	(07) 3221 9288		
+Newquay Display Suites	Lantos Place 80 Stamford Rd, Indooroopilly QLD 4068	(02) 6239 6431		
+Pabuno Pty Ltd	156 Homestead St, Moorooka QLD 4105	(08) 8211 6669		
+Jamieson Projects Pty Ltd	63 Montbrae Cct, Narre Warren North VIC 3804	(07) 5532 2200		
+Scancoin Pty Ltd	City Link Plz Ste 12 30 Morisset St, Queanbeyan ACT 2620	(07) 3378 7177		
+Precom Developments Pty Ltd	164 Hawthorn Rd, Caulfield North VIC 3161	(03) 8794 9412		
+Eastern Pacific Developments Pty Ltd	135 Riding Rd, Hawthorne QLD 4171	(02) 6297 7000		
+Intercapital Corporation	Level 1 313A Kingsway, Caringbah NSW 2229	(03) 9523 9500		
+Professional Developments Pty Ltd	Real Estate Development - Moorooka, QLD 4105	(07) 3399 6191		
+Dan-E Investments	Real Estate Development - Narre Warren North, VIC 3804	(07) 3200 1366		
+Elmslea Land Developments Pty Limited	Real Estate Development - Queanbeyan, NSW 2620	(02) 9524 1267		
+M.K. Building Co Pty Ltd	Real Estate Development - Caulfield North, VIC 3161			
+A.T. Design Pty Ltd	Real Estate Development - Hawthorne, QLD 4171			
+New Beith Forest	Real Estate Development - New Beith, QLD 4124			
+Sharp Project Sales Pty Ltd	Real Estate Development - Caringbah, NSW 2229			
+Sharp Project Sales Pty Ltd	Level 1 313A Kingsway, Caringbah NSW 2229	(02) 9524 1267		
+Eastwood Centre Developments	Ste 301/ 160 Rowe St, Eastwood NSW 2122	(02) 9804 6066		
+Oz Property Group Pty Ltd	Ste 5/ 9 Church St, Hawthorn VIC 3122	(03) 9853 1388		
+Devpro Property Development	Lvl 2/ Ste 1A/ 802 Pacific Hwy, Gordon NSW 2072	(07) 3369 3524		
+Jardine Developments	70 Howard St, Paddington QLD 4064	(02) 4944 8802		
+Seaston Pty Ltd	Unit 5/ 16 Baroonba St, Whitebridge NSW 2290	(07) 5533 3355		
+Binna Burra Enterprises	618 Binna Burra Rd, Beechmont QLD 4211	(02) 9281 9292		
+Ausdrag Pty Ltd	330 Wattle St, Ultimo NSW 2007	(08) 9485 1100		
+Banksia Grove Realty Pty Ltd	Lvl 7/ 216 St Georges Tce, Perth WA 6000	(07) 5532 3399		
+Jangus Developments Pty Ltd	19 Wildash St, Southport QLD 4215	(07) 5526 7315		
+Consul Management Pty Ltd	6 Freyburg St, Bundall QLD 4217	1300 651 255		
+Lyons Development Corporation	124 King St, Newtown NSW 2042	(02) 9516 2144		
+Moutere Pty Ltd	192 Parramatta Rd, Ashfield NSW 2131	(02) 9799 7877		
+Full Sea International Limited	6 Castra Pl, Double Bay NSW 2028	0418 255 025		
+Cascade Holdings Pty Ltd	103 Foveaux St, Surry Hills NSW 2010	(02) 9281 6038		
+Cascade Holdings Pty Ltd	88 Tweeddale Rd, Applecross WA 6153	(08) 9364 0400		
+Castelli Pty Ltd	8 Barker Pl, Karrinyup WA 6018	(08) 9447 2223		
+Justin Sonia Pty Ltd	323 Castlereagh St, Haymarket NSW 2000	(02) 9212 4154		
+First Scope Development Pty Ltd	Shop 1/ 313 Crown St, Wollongong NSW 2500	(02) 4226 4938		
+General Infrastructure Group Pty Ltd	40-41 Orana Esplanade, Victoria Point QLD 4165	(07) 3207 4400		
+Garden Green Land Subdivision	43 Peel St, South Brisbane QLD 4101	(07) 3328 8000		
+Forrester Properties Pty Ltd	10 Tourer Ct, Maylands WA 6051	(08) 9371 8012		
+Barina Investment	Level 2 395 Ferntree Gully Rd, Mt Waverley VIC 3149	(03) 8562 4300		
+Pellicano Pty Ltd	Suite 611 54 Nott St, Port Melbourne VIC 3207	(03) 9646 5666		
+Marne Properties Pty Ltd	155 The Entrance Rd, Erina NSW 2250	(02) 4365 3351		
+Stevens Group	Suite 20a 102 Princes Hwy, Unanderra NSW 2526	(02) 4271 4099		
+Acumen Developments Pty Ltd	118 Kintyre St, Brookfield QLD 4069	(07) 3374 3414		
+Commercial Asset Management Services Pty Ltd	Unit 5b/ 17 Connor St, Burleigh Heads QLD 4220	(07) 5535 4522		
+Backyard Bucks	29-33 Chesterville Rd, Glen Waverley VIC 3150	(07) 4038 3777		
+Eco Smart Homes	213 Miller St, North Sydney NSW 2060	(03) 9887 8755		
+Canopy's Edge Estate	1 Kent St, Millers Point NSW 2000	(02) 9460 2859		
+Glenvoir Holdings Pty Ltd	Real Estate Development - Glen Waverley, VIC 3150	(02) 9256 5000		
+JLF Corporation Pty Ltd	Real Estate Development - North Sydney, NSW 2060	0403 004 425		
+Multiplex Developments Pty Ltd	Real Estate Development - Millers Point, NSW 2000			
+Apex Land Development Solutions	Real Estate Development - Adelaide, SA 5000			
+J.L.R. Property Group Pty Ltd	Ste 12/ 51-55 City Rd, Southbank VIC 3006	(03) 9645 0330		
+Grange Country Estate	464 Hotham Creek Rd, Willow Vale QLD 4209	(07) 5549 2205		
+Century 21 Cedar Park Realty	5 Normanby St, Yeppoon QLD 4703	(07) 4939 5522		
+Saruman Holdings Pty Ltd	13A Tandarra Pl, Wembley Downs WA 6019	(08) 9245 1688		
+Marx Capital Pty Ltd	Lvl 1 220 Cambridge St, Wembley WA 6014	1300 794 530		
+Covenant Securities Pty Ltd	620 Macauley St, Albury NSW 2640	(08) 9489 6260		
+Albury- Wodonga Corporation	49 Drayton St, Nanango QLD 4615	(02) 6023 8097		
+Rod Morgan Land Sales	51 Riley St, Woolloomooloo NSW 2011	(07) 4163 3044		
+Millbridge Private Estate Sales And Information Centre	320 Adelaide St, Brisbane QLD 4000	(08) 9725 0500		
+Rose	10 Glenside St, Balgowlah Heights NSW 2093	(02) 8302 1400		
+Australian Major Projects Group Pty. Ltd.www.ampg.com.au	Suite 1/ 202 Jersey Rd, Paddington NSW 2021	(02) 9948 5466		
+Hawes David R &amp; Associates	Lot 7 Palmyra Crst, Buderim QLD 4556	(02) 9326 1000		
+Shipton Group	10 Mount St, North Sydney NSW 2060	(03) 9521 8500		
+Goapartments.Com.Au Pty Ltd	109 Queen St, Woollahra NSW 2025	(07) 5479 4232		
+Palmyra Cresent Estate Land Sales	1 Needlebush Dr, Hayborough SA 5211	(02) 9328 2777		
+Nebkahn Pty Ltd	28 Matthews Way, Wakerley QLD 4154	(08) 8554 2226		
+Pongrass Development Group Pty Ltd	Ste 7/ 27 Mayneview St, Milton QLD 4064	(07) 3890 2622		
+Environmentally Sustainable Developments	44 Lyall St, Redcliffe WA 6104	(02) 9541 1191		
+West Way Group	8A 137 Kewdale Rd, Kewdale WA 6105	(07) 3367 1883		
+Habitat Property Group	41 San Simeon Dr, Clear Island Waters QLD 4226	(08) 8331 2122		
+Chee Corporation Pty Ltd	1 Riverina Dr, Ascot WA 6104	0418 941 328		
+Bessica Investments	The Piazza On The Boulevarde Shop Flat 11 3221 Gold Coast Hwy, Surfers Paradise QLD 4217	(08) 9353 2188		
+Ryan Bernie	16 Bay St, Double Bay NSW 2028	(07) 5578 5588		
+Coxon Group of Companies	Suite 6,Cottesloe Chambers,132-136 Railway St, Cottesloe WA 6011	(08) 9277 7202		
+Three Stars International Pty Ltd	21 Litera Ct, Palm Cove QLD 4879	(07) 5592 3277		
+Strata Title Consultancy Services	Lvl 10 61 Lavender St, Milsons Point NSW 2061	(08) 9385 1300		
+Starts International Australia Pty Ltd	16 Patamba St, Wagga Wagga NSW 2650	(02) 6230 0800		
+16 Bay St Pty Ltd	Lvl 1/ 6 Riverside Qy, Southbank VIC 3006	1300 723 187		
+Heath Development Company	Real Estate Development - Claremont, WA 6010	(02) 9929 5000		
+McWilliam Property Services Pty Ltd	Real Estate Development - Hendra, QLD 4011	(02) 6922 3358		
+Canberra Investment Corporation Limited	Real Estate Development - Canberra, ACT 2601	(03) 9695 3000		
+Argentea Sales Office	Real Estate Development - Palm Cove, QLD 4879			
+Winten Property Group	Real Estate Development - Milsons Point, NSW 2061			
+D &amp; K Post Constructions	Real Estate Development - Kooringal, NSW 2650			
+Villawood Properties	Real Estate Development - Southbank, VIC 3006			
+My Home Now Pty Ltd	Shop 9/ 201 Morayfield Rd, Morayfield QLD 4506	(07) 5428 2720		
+Southern Sustainable Developments Pty Ltd	14 Alandale Cl, Ventnor VIC 3922	(03) 5956 8830		
+M C H Properties	26 College St, Sydney NSW 2000	(07) 5533 7007		
+Young &amp; Company Aust Pty Ltd	27 Gumtree St, Runcorn QLD 4113	13 2001		
+AR Developments Pty Ltd	Suite 3 55 McDougall St, Milton QLD 4064	(07) 3117 2740		
+Barry Properties Pty Ltd	131 Currie St, Adelaide SA 5000	(07) 3369 1599		
+Australian Major Projects Group	55 Sugar Rd, Maroochydore QLD 4558	0418 235 267		
+A Think Money	161 Yambil St, Griffith NSW 2680	(07) 5430 4777		
+Savage Bros	262 Maitland Rd, Mayfield NSW 2304	(02) 6962 6566		
+Ivor Johns Realty Partners	5 Renmark St, Duffy ACT 2611	(02) 4949 2300		
+Molonglo Group Pty Ltd	Chatswood Village Ste 72a/ 47 Neridah St, Chatswood NSW 2067	(02) 6161 8051		
+Indoland Pty Ltd	21 River Dr, Surfers Paradise QLD 4217	(02) 9411 1766		
+The River Drive Group	Lvl 5 Niecom Plaza, Broadbeach QLD 4218	(07) 5570 4546		
+Reef Cove Resort Ltd	23 Aubrey Rd, Northbridge NSW 2063	(07) 5504 4600		
+Urban Assets Pty Ltd	Suite 202/203- 233 New South Head Rd, Edgecliff NSW 2027	(08) 8182 3568		
+Stockland Kawana Waters	13 Wilson St, Berri SA 5343	(07) 5444 1333		
+Herfound Pty Ltd	26 Duporth Ave, Maroochydore QLD 4558	(02) 9960 1355		
+Wise Property Group Pty Limited	Suite 2/ 265 Wharf Rd, Newcastle NSW 2300	(02) 9326 1399		
+Berri Developments Pty Ltd	30 Beaven Ave, Broadview SA 5083	(08) 8582 5598		
+J R Bryant	Suite 1 230 Main St, Osborne Park WA 6017	(07) 5443 7448		
+Honeysuckle Development Corporation	152-156 Minjungbal Dr, Tweed Heads South QLD 2486	(02) 4904 2750		
+Universal Consolidated Securities	10 Bridge St, Sydney NSW 2000	(08) 8367 8666		
+Dewpine Pty Ltd	106 Old Pittwater Rd, Brookvale NSW 2100	(02) 4821 1344		
+Burrows Property Group	Level 5/ 110 Hunter St, Newcastle NSW 2300	(08) 9349 5111		
+The Market Place Realty	Station St, Fairfield VIC 3078	(07) 5524 5622		
+Banora Projects Pty Ltd	15 College St, Wendouree VIC 3355	(02) 8220 8088		
+Samardi Group	135 Main St, Osborne Park WA 6017	(02) 9939 7566		
+R.W. Sheargold Pty Ltd	169 Fitzroy St, Fitzroy VIC 3065	(02) 4926 1644		
+Commanding Heights Developments	Unit 2/ 24 First Ave, Broadbeach QLD 4218	(02) 4358 2842		
+Backyards $Cash$	Real Estate Development - Thornbury, VIC 3071	(03) 5339 5929		
+Fourteenth Floor Agencies Pty Ltd	Real Estate Development - Lake Munmorah, NSW 2259	(08) 9444 2744		
+Connewirricoo Investments Pty Ltd	Real Estate Development - Wendouree, VIC 3355	(03) 9419 0199		
+Hughan J D	Real Estate Development - Osborne Park, WA 6017	(07) 5504 7796		
+Trygg Pty Ltd	Real Estate Development - Fitzroy, VIC 3065			
+UAE Group Pty Ltd	Real Estate Development - Broadbeach, QLD 4218			
+Lowtian	17 Flinders Parade, Gladstone QLD 4680	(07) 4972 5202		
+Queensland 2000 Robin Holt	222 Ferry Rd, Southport QLD 4215	(07) 5591 8808		
+MIE Developments	87-91 Campbell St, Liverpool NSW 2170	(02) 9608 4603		
+PJS Real Estate Recruitment Pty	972 Old Princess Hwy, Engadine NSW 2233	1300 305 067		
+Mirvac Group	Lvl 6/ 380 St. Kilda Rd, Melbourne VIC 3000	(03) 9645 9400		
+Abadeen Group Pty Ltd	Lvl 7 70 Pitt St, Sydney NSW 2000	(02) 8259 8000		
+Habitat Developments Pty Ltd	20 Fairs Ave, Woolooware NSW 2230	(07) 5571 6988		
+Prime Property Projects Pty Ltd	10 James Cook Esplanade, Hollywell QLD 4216	(07) 3374 1076		
+Bentleigh Developments Pty Ltd	135 Huntingdale St, Pullenvale QLD 4069	(03) 9799 7965		
+Rise At Lyndhurst The	Level 3, 24 North Terrace, Adelaide SA 5000	(08) 8112 3199		
+Land SA	1 Wellington Ave, Beaumaris VIC 3193	(03) 9515 0271		
+NV Developments	270 Upper Dawson Rd, The Range QLD 4700	(07) 4921 0137		
+Ron Busby Property Development Consultants	Bridgeton Hse/ Ste 8/ 55 Berry St, Nowra NSW 2541	(02) 4422 4556		
+Foberon Pty Ltd	358 Rokeby Rd, Subiaco WA 6008	(08) 9381 3222		
+Mercedes Developments Pty Ltd	1 Jarrah St, Bunbury WA 6230	0418 570 576		
+Tronic Nominees Property Developers	216 Grange Rd, Flinders Park SA 5025	(08) 9791 2206		
+New Wave Property	1 Short St, Scotts Head NSW 2447	(07) 4927 3204		
+Rockhampton Industrial Park	4 Cabana Blv, Benowa Waters QLD 4217	(02) 9362 8574		
+Ocilla Investments Aust Pty Ltd	13 Market St, Fremantle WA 6160	(08) 8152 0311		
+Western Property Group Pty Ltd	Level 4 / 66 Kings Park Rd, West Perth WA 6005	0428 291 544		
+Scotts Head Lifestyle Homes	31 Watland St, Springwood QLD 4127	(08) 8261 2700		
+Skilled Property Services	1 Sunbird Dr, Woree QLD 4868	(07) 5539 1684		
+First Australian Development Pty Ltd	12 Lakeview Dr, Scoresby VIC 3179	(08) 9435 3900		
+Terranovis Pty Ltd	1st Floor 330 Sheridan St, Cairns QLD 4870	(08) 9586 1330		
+Port Mandurah Land Sales	Unit 10/ 2 Link Dr, Yatala QLD 4207	(07) 3808 8000		
+Residential Resorts Of Australia	Focus Five Building 23-31 Gheringhap St, Geelong VIC 3220	(07) 4054 7355		
+Silvernip Pty Ltd	Unit 6a/ 100 Bundall Rd, Bundall QLD 4217	(03) 9237 2222		
+Wallan Valley Pty Ltd	63 Camberwell Rd, Hawthorn East VIC 3123	(07) 4051 0500		
+Kunnara Pty Ltd	11 River Cove, Helensvale QLD 4212	(08) 8341 5888		
+Vancoen Pty Ltd	Real Estate Development - West Lakes, SA 5021	(07) 3386 1299		
+Bay Property Holdings Pty Ltd	Real Estate Development - Yatala, QLD 4207	(03) 5223 1851		
+Geelong Conveyancing Services	Real Estate Development - Geelong, VIC 3220	1300 797 782		
+Elders Special Projects Bundall	Real Estate Development - Bundall, QLD 4217	(03) 8832 0000		
+Property Squared	Real Estate Development - Hawthorn East, VIC 3123	(07) 5580 3806		
+Westrade	Real Estate Development - Helensvale, QLD 4212			
+Pioneer Lakes	38 Elizabeth St, Mirani QLD 4754	(07) 4959 1999		
+Resort Torquay The	6/ 16 Gilbert St, Torquay VIC 3228	(03) 5261 9988		
+Peet Alkimos	Hillarys Boat Harbour Shop 38/ 86 Southside Dr, Hillarys WA 6025	(08) 9246 7007		
+Alliance Home Solutions	Lvl 18 333 Ann St, Brisbane QLD 4000	(07) 3114 2200		
+Penta Enterprise Pty Ltd	6a/ 323 Castlereagh St, Haymarket NSW 2000	(02) 8064 3265		
+David Nelson	Suite 306 29 Solent Cct, Baulkham Hills NSW 2153	(02) 9659 9611		
+Consortium Capital Projects Ltd	Level 20/ 300 Queen St, Brisbane QLD 4000	1800 240 262		
+DA Now Total Development Solutions	Shop 101 489 Hunter St, Newcastle NSW 2300	(02) 4927 8800		
+Capricorn Survey Group Pty Ltd	7 Stevens St, Southport QLD 4215	(07) 4927 5199		
+V R Global Pty Ltd	Shop 1/ 3113 Surfers Paradise Blv, Surfers Paradise QLD 4217	(07) 5532 1300		
+360 Project Marketing Pty Ltd	Lvl 28 123 Eagle St, Brisbane QLD 4000	(07) 5539 9360		
+Metro Property Development Pty Ltd	499 St Kilda Rd, Melbourne VIC 3004	(07) 3224 9111		
+Spring &amp; Parks Pty Ltd	32 Robertson St, Fortitude Valley QLD 4006	(03) 9820 0200		
+Portfolio Pty Ltd	Cnr Sylvan Beach Esp and Marina Blvd, Banksia Beach QLD 4507	(07) 3408 7722		
+Pacific Harbour	Level 2 HQ South Tower 520 Wickham St, Fortitude Valley QLD 4006	(07) 3370 4700		
+Leighton Properties	Shop 2/ 339 Cambridge St, Wembley WA 6014	(08) 9387 7822		
+Sureland Property Group Pty Ltd	Unit 1/ 134 Marine Parade, Maroubra NSW 2035	(02) 9344 7773		
+Stony Creek Pty Ltd	62 The Parade, Norwood SA 5067	(08) 8201 0000		
+AVJennings Limited	Ste 36/ 328 Albany Hwy, Victoria Park WA 6100	(07) 4922 9099		
+Love &amp; Associates Realty	110 John Lane Rd, Yarravel NSW 2440	(08) 9355 0903		
+Ridgewood East Developement Pty Ltd	11/ 32 Douglas Rd, Quakers Hill NSW 2763	(02) 6562 7397		
+Whulung Land &amp; Development	52 Pine St, Runcorn QLD 4113	(02) 8840 8096		
+Srb Business Pty Ltd	80 Abbott St, Cairns QLD 4870	(07) 3423 3703		
+Kachina Pty Ltd	1/ 218 Walker St, Bundaberg QLD 4670	(08) 8556 6379		
+Aldinga Arts Ecovillage	Unit 3/ 70 Marine Parade, Coolangatta QLD 4225	1800 007 558		
+Trilogy on the Esplanade	Unit 1/ 203 South Gippsland Hwy, Cranbourne VIC 3977	(07) 5536 2012		
+Gainspare Developments	Old Burleigh Rd, Surfers Paradise QLD 4217	(03) 5995 0409		
+Whitbourn Holdings Pty Ltd	Unit 5/ 16 Baroonba St, Whitebridge NSW 2290	(08) 9388 1199		
+Rural 2 Rezone Pty Ltd	Suite 10/ 280 Hay St, Subiaco WA 6008	(02) 9908 7750		
+Aludra Development	Ste 15/ 287 Military Rd, Cremorne NSW 2090			
+Riverlea Estate	Real Estate Development - Aitkenvale, QLD 4814			
+Seastone Pty Ltd	Real Estate Development - Whitebridge, NSW 2290			
+Woodsome Management Pty Ltd	Real Estate Development - Subiaco, WA 6008			
+Adcock Consulting	Real Estate Development - Nairne, SA 5252			
+Omada Property Group Pty Ltd	Real Estate Development - Cremorne, NSW 2090			
+Yaran Property Group	19 Lyall St, South Perth WA 6151	(08) 9354 1122		
+Bluestone Property Solutions (QLD) Pty Ltd	25A Donkin St, West End QLD 4101	(07) 3255 1220		
+Three Property Developments Pty Ltd	Level 4/ 52 Davenport St, Southport QLD 4215	(08) 9388 3141		
+Riverside Developments Co Pty Ltd	Unit 3/ 415 Roberts Rd, Subiaco WA 6008	(02) 9469 5620		
+Central Coast Business Park	330 Pacific Hwy, Wyong NSW 2259	(02) 9819 6966		
+Cornish Group Of Companies	Suite 5 3-7 Park Ave, Drummoyne NSW 2047	(07) 5450 5300		
+Robcorp Pty Ltd	suite 1 40 Canyon Rd, Baulkham Hills NSW 2153	(08) 9167 8888		
+Waterford County	11 Cranbrook Rd, Rose Bay NSW 2029	(02) 9327 4200		
+Sunstate Strata	13 Maple Rd, Casula NSW 2170	(02) 9826 8001		
+Lake Argyle Pty Ltd	7601 Fairway Blv, Hope Island QLD 4212	(07) 5510 9585		
+Stephen &amp; Co Pty Ltd	91 Phillip St, Parramatta NSW 2150	(02) 9891 0027		
+MWSK Pty Ltd	Offce 4/ 53 Davidson Tce, Joondalup WA 6027	(08) 9301 4445		
+Fairway Island	Mezzanine 63 The Corso, Manly NSW 2095	(02) 9977 1933		
+Nova Property Group	Unit 9/ 8 Booth Pl, Balcatta WA 6021	(08) 9240 6400		
+4 Land Property Group	381 Cross Rd, Edwardstown SA 5039	(08) 8371 2800		
+Inergowrie Properties	14 Meenaar Crst, Coolbinia WA 6050	(08) 9443 9279		
+Davenport Real Estate	Suite 103 10- 12 Clarke St, Crows Nest NSW 2065	(02) 9437 9255		
+C. Carter Pty Ltd	9 Mosman Sq, Mosman NSW 2088	(02) 9968 2611		
+ProjectX Developments	33 Liege St, Woodlands WA 6018	(07) 4987 7567		
+Mike George Planning Pty Ltd	2 Borilla St, Emerald QLD 4720	(03) 9684 8166		
+Fox Michael Architects Pty Ltd	39 Martinique Way, Clear Island Waters QLD 4226	(02) 9906 7775		
+Professional PCR's	Unit 3/ 79 Alexander St, Crows Nest NSW 2065	(07) 3392 2212		
+Milky Way Property Enterprises	Ste 4/ 727 Stanley St, Woolloongabba QLD 4102	(02) 9540 2230		
+Taylor, Steve	31 Alexander Ave, Taren Point NSW 2229	(08) 8531 3436		
+Woods Mickleham The	11 Oxford St, Murray Bridge SA 5253	(07) 5570 0900		
+Southern Pacific Development Pty Ltd	Lvl 1/ 9 Ouyan St, Surfers Paradise QLD 4217	(02) 6295 9465		
+Armada Properties Pty Ltd	42 Giles St, Kingston ACT 2604	(02) 9247 3957		
+Pride Property Pty Ltd	Lvl 1 20 Wilson St, South Yarra VIC 3141	(03) 9044 1200		
+Macgregor Investment Group Pty Ltd	6 Collins Rd, St Ives NSW 2075	(02) 9402 6510		
+Morrell Initiatives Pty Ltd	Real Estate Development - Murray Bridge, SA 5253			
+MiiGroup	Real Estate Development - Surfers Paradise, QLD 4217			
+Andrew property group	Real Estate Development - Kingston, ACT 2604			
+Trumen Corp	Real Estate Development - Millers Point, NSW 2000			
+DaclandPty Ltd	Real Estate Development - South Yarra, VIC 3141			
+Asset Based Securities Pty Ltd	Real Estate Development - St Ives, NSW 2075			
+Positive Property Pro	3 Crestmont Dr, Glen Waverley VIC 3150	(02) 9522 5487		
+Brisbane Development Sites	38 Raleigh Rd, Virginia QLD 4014	(03) 9769 7229		
+Rocdon Development Pty Ltd	Suite 2a Level 9 20 Collins St, Melbourne VIC 3000	(02) 9836 0869		
+Macgregor Investment Group Pty Ltd	11 Holt Rd, Taren Point NSW 2229	(08) 9225 6544		
+Brunslea Park Estate	111A Fitzmaurice St, Wagga Wagga NSW 2650	(07) 3886 7206		
+PSA Group	255 Drummond St, Carlton VIC 3053	(02) 6885 3145		
+McDowell Enterprises (NSW) Pty Ltd	7 Pomegranate Pl, Glenwood NSW 2768	(07) 3865 2202		
+P-3 Living	45 St Georges Tce, Perth WA 6000	(02) 4351 2233		
+Stockland Property Management Pty Ltd	Marshman Rd, Narangba QLD 4504	(03) 6234 3453		
+Stockland Residential Communities	42 Mountbatten Dr, Dubbo NSW 2830	(02) 9007 5331		
+Macrite Developments	23 Akaroa Ave, Geebung QLD 4034	(02) 9971 1725		
+Garjen Developments Pty Ltd	Unit 4 5 Colony Cl, Tuggerah NSW 2259	(07) 5477 2500		
+Ingold Peter	76 Murray St, Hobart TAS 7000	(07) 3831 8110		
+Centrepoint Shopping Centre	178 Jersey Rd, Woollahra NSW 2025	(02) 4966 5578		
+Developmentlink Corporation Pty Ltd	1129 Pittwater Rd, Collaroy NSW 2097	(07) 3399 1964		
+Libra Collaroy Pty Ltd	7 Bellflower Rd, Sippy Downs QLD 4556	(07) 4936 1149		
+Investa Property Group	15 Astor Tce, Spring Hill QLD 4000	(02) 9890 2872		
+JLF Corporation Pty Ltd	8 Waterloo Ave, Thornton NSW 2322	(03) 9530 6346		
+Hunter Land Pty Ltd	62 Oxford St, Bulimba QLD 4171	(07) 4939 5522		
+Brisbane Land Developments	17 Fennell St, Parramatta NSW 2150	(02) 9909 2233		
+Olive R L &amp; J D	30 Warleigh Gr, Brighton VIC 3186	(07) 3205 1533		
+Nelson David &amp; Partners Pty Ltd	205 Benboyd Rd, Neutral Bay NSW 2089	(08) 8193 9600		
+Owners Corporation	Unknown St, Brendale QLD 4500	(07) 3372 1894		
+Cedar Park Realty	938 South Rd, Edwardstown SA 5039	(07) 5577 3208		
+Huntingdale Properties	8 Grevillea Pl, Forest Lake QLD 4078	(02) 4577 7969		
+Aqua Jet Systems Pty Ltd	328 Macquarie St, South Windsor NSW 2756	(02) 9358 7982		
+Woolcock Group	100 William St, Woolloomooloo NSW 2011	(07) 5455 8700		
+Ipswitch Pumpco	1/ 84 Poinciana Ave, Tewantin QLD 4565	(02) 4365 8149		
+Sovereign Islands The	Lvl 2/ 56 Delhi Rd, Macquarie Park NSW 2113	(02) 4842 2134		
+Denmar Designs	Real Estate Development - South Windsor, NSW 2756	(02) 9889 3332		
+Westfield Constructions Pty Ltd	Real Estate Development - Woolloomooloo, NSW 2011			
+Robert James Realty	Real Estate Development - Tewantin, QLD 4565			
+Stevens Construction (NSW) Pty Ltd	Real Estate Development - Erina, NSW 2250			
+Wallace Dale Angus Stud	Real Estate Development - Braidwood, NSW 2622			
+IX-Ply	Real Estate Development - Macquarie Park, NSW 2113			
+Cedar Park Realty	205 Benboyd Rd, Neutral Bay NSW 2089	(07) 4939 5522		
+Huntingdale Properties	Unknown St, Brendale QLD 4500	(02) 9909 2233		
+Aqua Jet Systems Pty Ltd	938 South Rd, Edwardstown SA 5039	(07) 3205 1533		
+Woolcock Group	8 Grevillea Pl, Forest Lake QLD 4078	(08) 8193 9600		
+Ipswitch Pumpco	328 Macquarie St, South Windsor NSW 2756	(07) 3372 1894		
+Sovereign Islands The	100 William St, Woolloomooloo NSW 2011	(07) 5577 3208		
+Denmar Designs	1/ 84 Poinciana Ave, Tewantin QLD 4565	(02) 4577 7969		
+Westfield Constructions Pty Ltd	Lvl 2/ 56 Delhi Rd, Macquarie Park NSW 2113	(02) 9358 7982		
+Robert James Realty	3 51 Newheath Dr, Arundel QLD 4214	(07) 5455 8700		
+Stevens Construction (NSW) Pty Ltd	332 Albert St, East Melbourne VIC 3002	(02) 4365 8149		
+Wallace Dale Angus Stud	41 Marshall Rd, Rocklea QLD 4106	(02) 4842 2134		
+IX-Ply	33 Yallamurra St, The Gap QLD 4061	(02) 9889 3332		
+Baycrown	489 Hunter St, Newcastle NSW 2300	(07) 5561 7744		
+Chocolate Property	6 Wellington St, Richmond TAS 7025	1300 889 694		
+Rocklea House	230 Victoria Rd, Gladesville NSW 2111	(07) 3511 0101		
+Property Remediation Development Co.	Level 3/ Suite 1 1C Grand Ave, Rosehill NSW 2142	(02) 4927 8800		
+Grand designs Property	25 Douglas Ave, St Albans VIC 3021	(03) 6260 2172		
+Baker P W &amp; C L	47 Nyes Crst, Buderim QLD 4556	(02) 8877 0000		
+Bradcorp Holdings Pty Ltd	348 Sussex St, Sydney NSW 2000	(02) 9868 5355		
+Lorvon	17 Marine Parade, The Entrance NSW 2261	1300 522 108		
+Eproperty Online Pty Ltd	9 Canterbury Ave, Sunbury VIC 3429	(07) 5476 7224		
+Upzon Pty Ltd	Unit 1701/ 582 St Kilda Rd, Melbourne VIC 3004	(02) 9283 2880		
+Wardner T &amp; P	Lvl 1 46 Cavill Ave, Surfers Paradise QLD 4217	(02) 4396 5533		
+Landmark Development &amp; Management Pty Ltd	Shop 2/ 92 Commercial Rd, Teneriffe QLD 4005	(03) 9740 3721		
+Sunseeker Property Developments	15 Anzac Ave, Redcliffe QLD 4020	(03) 9533 8856		
+Canterbury Hills	29 North Parade, Port Adelaide SA 5015	(03) 9386 9563		
+Larter Co Pty Ltd	Suite 1 16 Moreau Mews, Applecross WA 6153	0419 353 414		
+Roscon Group Of Companies	Suite 12 Level 1 / 88 Currie St, Adelaide SA 5000	(07) 3357 6722		
+Cromer &amp; Partners	Real Estate Development - Sandy Bay, TAS 7005	(07) 3252 9765		
+Leda Holdings Pty Ltd	Real Estate Development - Surfers Paradise, QLD 4217	(07) 3284 1466		
+Platinum Properties Pty Ltd	Real Estate Development - Teneriffe, QLD 4005	(08) 8341 0342		
+W.D. Surveys (Wilson Deller)	Real Estate Development - Redcliffe, QLD 4020	(08) 9316 8100		
+Smith Neville &amp; Co (SA) Pty Ltd	Real Estate Development - Port Adelaide, SA 5015	(08) 8410 3777		
+Minalti Pty Ltd	Real Estate Development - Applecross, WA 6153			
+ECON Property Group Pty Ltd	Real Estate Development - Adelaide, SA 5000			
+Imperial Apartments	Suite 1/38 - 46 Albany St, St Leonards NSW 2065	(02) 9436 0346		
+Pinmark Pty Ltd	Suite 1 Lvl 1/ 55 Grandview St, Pymble NSW 2073	(02) 9144 7844		
+White Property Group Pty Ltd	Unit 4/ 34 Commercial Rd, Newstead QLD 4006	(07) 3852 5955		
+Restjet Pty Ltd	713 Military Rd, Mosman NSW 2088	(02) 9960 7288		
+Grosvenor Australia Pty Ltd	Lvl 14 307 Queen St, Brisbane QLD 4000	(07) 3009 7799		
+Firestar Developments Pty Ltd	201 Varsity Parade, Varsity Lakes QLD 4227	(07) 5578 7422		
+Ozanne Brett D	Shop 2/ 100 Regent St, Redfern NSW 2016	(07) 5591 1903		
+Saber Developments	Ste 2308/ 5 Lawson St, Southport QLD 4215	(03) 9629 1898		
+Maxicity Pty Ltd	357 Collins St, Melbourne VIC 3000	(02) 9262 7769		
+K &amp; T Development Pty Ltd	Ste 6/ 377 Sussex St, Sydney NSW 2000	(08) 9443 3700		
+Giorgi Group Pty Ltd	Suite 13/ 24 Parkland Rd, Osborne Park WA 6017	(02) 9332 4055		
+McDonald Industries (Sales) Pty Ltd	Suite 8 32A Oxford St, Darlinghurst NSW 2010	(07) 5452 5533		
+Raftsea Pty Ltd	58 Buderim Ave, Alexandra Headland QLD 4572	(02) 9420 1122		
+Balmoral Partners	12 Carranya Rd, Riverview NSW 2066	(02) 9727 9999		
+Tran Property Investments	48 Hill St, Cabramatta NSW 2166	(03) 9598 9401		
+Emblem Heights Pty Ltd	5A Field St, Hampton VIC 3188	(02) 9966 9388		
+W Property Pty Ltd	47A Willoughby Rd, Crows Nest NSW 2065	(02) 9647 1999		
+Earle Cameron Constructions Pty Ltd	Unit E 2 255 Rawson St, Auburn NSW 2144	(02) 9879 7707		
+Paslibdan Pty Ltd	31 Beach St, Emu Plains NSW 2750	(07) 4721 2822		
+Maidment Development Group	151 Sturt St, Townsville QLD 4810	(02) 9299 7485		
+Sgw Properties Pty Ltd	Ste 504/ 35 Lime St, Sydney NSW 2000	(02) 6557 6337		
+Pollock Gould Properties	2/ 60 Manning St, Tuncurry NSW 2428	(03) 9557 1988		
+Takle Developments	42 Alexander Ave, North Willoughby NSW 2068	(02) 8962 6677		
+Orlani Property Group	34 Fern St, Randwick NSW 2031	(02) 9665 0997		
+Maverick Developments Pty Ltd	15 Seafarer Ct, Patterson Lakes VIC 3197	1800 363 725		
+Emerald Developments (Aust) Pty Ltd	60 Yurong St, East Sydney NSW 2010	(03) 9773 0000		
+Design One Pty Ltd	39 Woody Views Way, Robina QLD 4226	(02) 9380 5222		
+De Groot Industries Pty Ltd	37 Bangalla St, Auchenflower QLD 4066	(07) 5578 9766		
+Sabina Corporation Limited	Level 1 Suite 1 333 Drummond St, Carlton VIC 3053	(07) 3871 1255		
+TDF Projects	49 Drayton St, Nanango QLD 4615	(03) 9347 5055		
+Banco Group Of Companies	106 Old Pittwater Rd, Brookvale NSW 2100	(08) 8122 4231		
+Adelaide Residential Development	381 Punt Rd, Richmond VIC 3121	(07) 4163 1418		
+Morgan R D	Real Estate Development - Nanango, QLD 4615	(02) 9939 7566		
+Sheargold Group	Real Estate Development - Brookvale, NSW 2100	(03) 9429 1000		
+Belgrave Group Of Companies	Real Estate Development - Richmond, VIC 3121			
+Schouten Developments Pty Ltd	29 Allambi Rise, Noosa Heads QLD 4567	(07) 5474 9206		
+Spanos Group Pty Ltd	Shop 2 Centre Point Mall, Berri SA 5343	(03) 9425 9443		
+Mantello Holdings Pty Ltd	5 Stewart St, Richmond VIC 3121	(07) 3371 0455		
+Prime Development Corporation	Toowong Terraces, Toowong QLD 4066	(08) 9221 3380		
+LMS Property Group Pty Ltd	27/ 8 James St, Perth WA 6000	0407 676 286		
+Terstep Pty Ltd	60 Baroona Rd, Milton QLD 4064	(02) 6239 6099		
+Link Management Pty Ltd	48 Bougainville St, Forrest ACT 2603	(08) 8362 9341		
+Township Development Pty Ltd	85- 87 Sydenham Rd, Norwood SA 5067	(03) 9653 9227		
+Australian Capital Limited	Level 50 101 Collins St, Melbourne VIC 3000	(08) 8362 4099		
+Emanuel Group Of Companies	19 North Tce, Hackney SA 5069	(02) 9807 4555		
+Developmentlink Corporation Pty Ltd	6/ 56 Buffalo Rd, Gladesville NSW 1675	(08) 9389 1797		
+Adelia Developments	1/ 55 Hampden Rd, Nedlands WA 6009	(07) 5592 6868		
+Niecon Developments Pty Ltd	Level 10 50 Cavill Ave, Surfers Paradise QLD 4217	(03) 5224 1477		
+Costa Property Group	2 Myers St, Geelong VIC 3220	(08) 9364 0400		
+Atlantis Investments	88 Tweeddale Rd, Applecross WA 6153	(07) 3040 9999		
+Lake Property Pty Ltd	Level 4 269 Wickham St, Fortitude Valley QLD 4006	(07) 4039 0811		
+Red Peak Forest Estate	2 Red Peak Blv, Caravonica QLD 4878	(07) 4124 7185		
+Huntingdale Qld Pty Ltd	9 Lady Penrhyn Dr, Eli Waters QLD 4655	(07) 3717 8000		
+DMN Holdings Ptd Ltd	23 Precision St, Salisbury QLD 4107	(02) 9498 6997		
+Colquhoun-Thomson Holdings Pty Ltd	137A Ryde Rd, West Pymble NSW 2073	(08) 8523 4935		
+Sukay Pty Ltd	13 Stithians Dr, Gawler East SA 5118	(08) 9474 3477		
+Morgan Settlements Pty Ltd	10 Charles St, South Perth WA 6151	(02) 9033 8622		
+Jagar Property Group Pty Ltd	Level 3 50 Yeo St, Neutral Bay NSW 2089	(08) 9257 2024		
+Longbench Pty Ltd	175 Railway Rd, Gooseberry Hill WA 6076	0418 732 044		
+Phillips Property Development Pty Ltd	587 Main Rd, Wellington Point QLD 4160	(02) 4976 1719		
+Saltro Developments (NSW) Pty Ltd	235 Cams Blv, Summerland Point NSW 2259	(02) 9362 9177		
+Oracle Property Group	Ste 301/ 30 Bay St, Double Bay NSW 2028	(07) 4927 4233		
+Macedab Pty Ltd	42 Cambridge St, The Range QLD 4700	(08) 9321 4646		
+Axiom Properties Limited	Level 18 109 St George's Tce, Perth WA 6000	(03) 9654 9800		
+Vision Property Group	3rd Floor Lansdowne House 182-184 Victoria Pde, East Melbourne VIC 3002	(08) 9328 5149		
+Australasian LAND CORP Pty Ltd	327 Charles St, North Perth WA 6006	(07) 3837 0700		
+Investa Commercial Developments P.T.Y L.T.D	Level 10 410 Ann St, Brisbane QLD 4000	(07) 5592 6239		
+Stratlaw Property Group	32 Surf Parade, Broadbeach QLD 4218	(03) 9237 2222		
+Altessar Pty Ltd	12 Lakeview Dr, Scoresby VIC 3179	(07) 3456 1500		
+Mantle Group	187 Wellington Rd, East Brisbane QLD 4169			
+Moorfield Partners	Unit 6/ 2892 Logan Rd, Underwood QLD 4119	(07) 3423 3727		
+Commercial Property Plus	46 Bonnett Rd, Mt Low QLD 4818	(07) 3491 2100		
+Burpengary Land Sales Centre	62 The Parade, Norwood SA 5067	(07) 4788 0218		
+Maidment Developments	UNIT 5/ 35 Burdett St, Albion QLD 4010	13 1878		
+AVJennings Home Improvements	Offce 3/ 118 Martin St, Gardenvale VIC 3185	(07) 3256 0537		
+Arden Management Group Pty Ltd	Ste 8/ 28 Young St, Moonee Ponds VIC 3039	(03) 9530 6800		
+Shustin Development Pty Ltd	378 Great North Rd, Abbotsford NSW 2046	(03) 9375 3880		
+Lacont Construction Pty Ltd	427 Springs Rd, Mt Barker Springs SA 5251	(02) 9712 2500		
+Abbotsford Cove Real Estate	2 Scott St, Kangaroo Point QLD 4169	(08) 8391 5995		
+Quigley Property Services Pty Ltd	345 Queen St, Brisbane QLD 4000	(07) 3210 6888		
+Waterford Properties Pty Ltd	145B Rockingham Rd, Hamilton Hill WA 6163	(02) 9635 1048		
+Xing Yue International Trading (Aus)	90 Herries St, Toowoomba QLD 4350	(07) 3248 8000		
+McConaghy Group P/L	Ste 2a/ 23 Middle St, Cleveland QLD 4163	(08) 9418 1250		
+Evans &amp; Gianoli	3/ 11 Walan St, Mooloolaba QLD 4557	(07) 4638 0517		
+OWR Pty Ltd	Suite 1 Level 1 57 Junction St, Nowra NSW 2541	(07) 3488 0909		
+Big Sky Property Pty Ltd	87 Koplick Rd, Park Ridge QLD 4125	(07) 5444 8765		
+Juniper Property Centre	42 Oakleigh Dr, Erskine WA 6210	(02) 4421 7155		
+Walsh &amp; Monaghan	399 Montague Rd, West End QLD 4101	(07) 3802 0528		
+Development &amp; Finance Pty Ltd	Suite 1703A / 1 Bligh St, Sydney NSW 2000	(08) 9301 4445		
+Natures Walk Estate	6 Villiers St, Parramatta NSW 2151	1300 796 311		
+Karidis Corporation Ltd	4 Jasmine Cl, Mildura VIC 3500	(07) 3004 6888		
+Stockwell Property Development Pty Ltd	50 Hindmarsh Sq, Adelaide SA 5000	(02) 8814 6618		
+Sunland Group - Sydney	271 Mcleod St, Cairns North QLD 4870	(03) 9825 4700		
+Sunland Group - Melbourne	13 Riverview Tce, Sunbury VIC 3429	(02) 9630 0388		
+Vida Group Holdings Pty Ltd	The Rocket Level 8 203 Robina Town Centre Dr, Robina QLD 4226	0418 502 040		
+Tierney Property Group Pty Ltd	20 Canopus St, Bridgeman Downs QLD 4035	(08) 8419 2100		
+Australian Property Projects Pty Ltd	5 Vivian St, Bellevue Hill NSW 2023	(07) 4041 6228		
+Pregno Family Investments Pty Ltd	70 Denison Rd, Lewisham NSW 2049	(03) 9740 4477		
+Canterbury Hills Pty Ltd	80 Hume St, Auchenflower QLD 4066	(07) 5593 3433		
+Robina Projects Australia	272 Annangrove Rd, Annangrove NSW 2156	0412 028 424		
+Inkontrol Pty Ltd	Real Estate Development - Bridgeman Downs, QLD 4035	0418 246 682		
+County Centre Projects Pty Ltd	Real Estate Development - Bellevue Hill, NSW 2023	(02) 9560 2651		
+Urban Integration Working Group	Real Estate Development - Lewisham, NSW 2049	0412 418 641		
+Axial Resources &amp; Development Pty Ltd	Real Estate Development - Auchenflower, QLD 4066	(02) 9679 1948		
+Ariela Pty Ltd	Real Estate Development - Annangrove, NSW 2156			
+Urban Integration Working Group	70 Denison Rd, Lewisham NSW 2049	(02) 9560 2651		
+Axial Resources &amp; Development Pty Ltd	80 Hume St, Auchenflower QLD 4066	0412 418 641		
+Ariela Pty Ltd	272 Annangrove Rd, Annangrove NSW 2156	(02) 9679 1948		
+BRB Group	Shop 7 195 Varsity Parade, Varsity Lakes QLD 4226	(07) 5562 0030		
+Falcon Property Group	5 Glasgow St, Ashgrove QLD 4060	(07) 3366 4210		
+In Touch Systems &amp; Research Pty Ltd	57-61 Balmain St, Cremorne VIC 3121	0411 470 570		
+SPEC PROPERTY DEVELOPMENTS PTY	Ste 10/ 33 Macedon St, Sunbury VIC 3429	(03) 9425 5900		
+P.T Tomkinson &amp; Associates	7 Kendall Pl, Helensvale QLD 4212	(03) 5445 8700		
+Equity Factory	23 Chelmsford Ave, Epping NSW 2121	1300 882 055		
+Citiscape Developments	Ste 1/ 421 Golden Four Dr, Tugun QLD 4224	(02) 9868 5355		
+SLB Developments Pty Ltd	2 Linkmead Ave, Clontarf NSW 2093	(07) 5534 6530		
+F.A.R.M Developments	47 Nyes Crst, Buderim QLD 4556	(07) 5525 2338		
+Lion Developments Pty Ltd	3rd Floor Lansdowne House 182-184 Victoria Pde, East Melbourne VIC 3002	(02) 9949 8888		
+TY Wardner Pty Ltd	260 Main St, Lilydale VIC 3140	(07) 5477 1149		
+Progressive Property Investments Pty Ltd	7 O'Connor Rd, Stratton WA 6056	(03) 9654 9800		
+Cavehill Estate Developments Pty Ltd	179 Fullarton Rd, Dulwich SA 5065	(03) 9735 3600		
+Avon Homes	Unit 25/ 20 Commercial Rd, Melbourne VIC 3000	(08) 9274 4720		
+Krystal Park Estate Pty Ltd	199 Adelaide St, Raymond Terrace NSW 2324	(08) 9838 3189		
+Andev Holdings Pty Ltd	112 McLennan St, Lutwyche QLD 4030	(08) 8332 1155		
+Andel Holdings Pty Ltd	135 Bass Meadows Blv, St Andrews Beach VIC 3941	(03) 9867 2451		
+Boom Properties Pty Ltd	261 Harris St, Pyrmont NSW 2009	(02) 6227 3134		
+Binowee Developments Pty Ltd	91 Willow Rd, Redbank Plains QLD 4301	(02) 4987 1748		
+Paul Le Mottee Project Management Pty Ltd	26 Fourth Ave, West Moonah TAS 7009	(07) 3357 6279		
+Raca Development Pty Ltd	Suite 611 54 Nott St, Port Melbourne VIC 3207	(02) 9395 8888		
+Peninsula Minders	100 Queensberry St, Carlton VIC 3053	(07) 3814 4055		
+Metroland Australia Ltd	Unit 2 4 Bowman St, South Perth WA 6151	(03) 6272 0491		
+Meacham &amp; Leyland (Finance) Pty Ltd	Ste 4/ 904 Stanley St East, East Brisbane QLD 4169	(03) 9646 5666		
+P A Properties Pty Ltd	21 Anthony St, Melbourne VIC 3000	(03) 9349 0000		
+Marne Development Pty Ltd	Lvl 1/ 28 Metroplex Ave, Murarrie QLD 4172	(08) 9368 6036		
+Piccolo Developments Pty Ltd	115 Hawthorn Rd, Caulfield North VIC 3161	(07) 3891 7222		
+QPM - Quality Project Management	Real Estate Development - South Perth, WA 6151	(03) 9326 8881		
+Brisbane Prestige Property Developments Pty Ltd	Real Estate Development - East Brisbane, QLD 4169	(07) 3899 5411		
+Adorna Group Of Companies	Real Estate Development - Melbourne, VIC 3000	(03) 9523 0533		
+Metroplex Management Pty Ltd	Real Estate Development - Murarrie, QLD 4172			
+Wolfstep Projects Pty Ltd	Real Estate Development - Caulfield North, VIC 3161			
+Benchmark Property Group Pty Ltd	696 Pittwater Rd, Brookvale NSW 2100	(02) 9905 1999		
+David Clark Enterprises	95 Anthony St, Ascot QLD 4007	(07) 3862 1939		
+Jet Construction Pty Ltd	7 Burra St, Chevron Island QLD 4217	1300 391 331		
+Conlan Holdings Pty Ltd	1 Sunbird Dr, Woree QLD 4868	(07) 4054 7355		
+Property-One Projects	153 High St, Prahran VIC 3181	(03) 9529 5878		
+Riverside Properties Pty Ltd	Lvl 1/10- 16 Queen St, Melbourne VIC 3000	(03) 9620 7788		
+Rich &amp; Partners	66 Parker St, Maroochydore QLD 4558	(07) 5475 4555		
+Wilbow Corporation Pty Ltd	Townhouse 12 Winnona Ave, Wahroonga NSW 2076	(07) 3831 0500		
+North Arm Cove Rezoning Association Inc	3 Shepherd St, Darwin NT 0800	(02) 9974 2231		
+George Vrodos	23 Irvine St, Peppermint Grove WA 6011	(08) 9284 7028		
+Marchmont Group Pty Ltd	Suite 7 41-43 Commercial Rd, Murwillumbah NSW 2484	(02) 6672 1256		
+Brown &amp; Haan	4 Charles St, South Perth WA 6151	(08) 9474 9999		
+Ravina Property Group	Lvl 3/ 150 Grenfell St, Adelaide SA 5000	(08) 8223 6535		
+Prime Space Projects Pty Ltd	15 Wentworth Ave, Sydney NSW 2000	0418 280 154		
+Annand Alcock Urban Design Pty Ltd	Unit 2/ 25 Pintu Dr, Tanah Merah QLD 4128	(07) 3209 8711		
+Right Properties	Unit 13/ 65 Tennant St, Fyshwick ACT 2609	(02) 6162 3618		
+McGilvray Projects	Lvl 1/ 392 St Georges Rd, Fitzroy North VIC 3068	(03) 9499 9783		
+Brooklyn Projects	Unit 8/ 92 Herston Rd, Kelvin Grove QLD 4059	(07) 3339 7990		
+Into Property	Ste 4/ 4 Belgrave St, Manly NSW 2095	(02) 9977 0194		
+Bamburgh Properties Pty Ltd	145B Rockingham Rd, Hamilton Hill WA 6163	(08) 9418 1250		
+E &amp; G Developments Pty Ltd	Level 1 168 Stirling Hwy, Nedlands WA 6009	(07) 5439 9001		
+Pathways Land Estate	Wharf 10/ 50-52 Pirrama Rd, Pyrmont NSW 2009	(08) 9386 8080		
+Benchmark Property	1/ 61 The Esplanade, Paynesville VIC 3880	(02) 9518 8782		
+Golden Land Development Group Pty Ltd	88 Limestone St, Ipswich QLD 4305	(03) 5156 1093		
+Riviera Properties	1/ 40 Derby St, Tullamarine VIC 3043	(03) 9334 5727		
+88 Limestone	745 Berwick Cranbourne Rd, Cranbourne North VIC 3977	(03) 9702 6712		
+Portelli Paz Pty Ltd	2 Jubilee Dr, Port Lincoln SA 5606	(03) 9690 9442		
+Stockland Development Pty Ltd	21 Cardigan Pl, Albert Park VIC 3206	(08) 9240 8264		
+Lincoln Lakes Development Co Pty Ltd	Unit 12/ 7 Abrams St, Balcatta WA 6021	1300 989 542		
+Chapel Developments	Level 2 10 Help St, Chatswood NSW 2067	(03) 8746 2204		
+First One Developments	8 Llangollan Ave, Enfield NSW 2136			
+Udevelop Property Development Consultancy	Real Estate Development - Bendigo, VIC 3550			
+Residential Projects Australia	Real Estate Development - Chatswood, NSW 2067			
+Portland Terrace Pty Ltd	Real Estate Development - Melton South, VIC 3338			
+Hochi Pty Ltd	Real Estate Development - Enfield, NSW 2136			
+Linea Property Developments	Suite 30/ 209 Toorak Rd, South Yarra VIC 3141	(03) 9827 8460		
+Golden Harbour Group (Australia) Pty Ltd	860 Victoria Rd, Ryde NSW 2112	(02) 8540 5051		
+New England Properties	126 Beardy St, Armidale NSW 2350	(02) 6772 8037		
+Batrob Investments	Unit 4 85 Cavenagh St, Darwin NT 0800	(08) 8941 8366		
+Linear Developments Pty Ltd	Unit 20 6- 8 Enterprise St, Molendinar QLD 4214	(07) 5527 8262		
+Dome Property Development Group	Lvl 1 Suite 1 69-71 Rosstown Rd, Carnegie VIC 3163	(03) 9563 5588		
+Rothlands Pty Ltd	Peninsula Plz Ste 406a/ 20 Bungan St, Mona Vale NSW 2103	(02) 9997 6744		
+Rommark Corporation Pty Ltd	Suite 304/ 45 Cross St, Double Bay NSW 2028	(02) 9362 8333		
+Spirecorp Australia Pty Ltd	Suite 9 1 Danks St, Waterloo NSW 2017	(02) 8399 2700		
+Verde Property (Aust) Pty Ltd	52 Toorak Rd, Hamilton QLD 4007	(07) 3211 8727		
+Palladion Property Group Pty Ltd	Level 3/ 74 Doncaster Rd, Balwyn North VIC 3104	(03) 9859 2400		
+Landmart Queensland	115-119 unit 4 Russell St, Cleveland QLD 4163	(07) 3821 3288		
+Anthony John Group Pty Ltd	123 Eagle St, Brisbane QLD 4000	(07) 3839 0011		
+Viney C R Real Estate	29 Regent St, Adelaide SA 5000	(07) 4054 7355		
+Marnatro Developments Pty Ltd	1 Sunbird Dr, Woree QLD 4868	(02) 4926 4666		
+Kingston Properties Pty Ltd	Level 1 50 Hunter St, Newcastle NSW 2300	(02) 6282 4039		
+Nikias Nominees Pty Ltd	70 Couvreur St, Garran ACT 2605	(07) 4959 8624		
+Dynamic Property People	147 Wainai Rd, Farleigh QLD 4741	(08) 9481 7070		
+Vella's Civil	Lvl 33/ 250 St Georges Tce, Perth WA 6000	(03) 9417 2133		
+Ardross Estates Pty Ltd	374B George St, Fitzroy VIC 3065	(07) 5529 1477		
+Zacamoco Developments	101 Morala Ave, Runaway Bay QLD 4216	(07) 5502 2153		
+Mornington Quays	Unit 3/ 78 Spencer Rd, Nerang QLD 4211	(02) 9259 5888		
+J L Holdings Australia Pty Ltd	Level 23 6 O'Connell St, Sydney NSW 2000	(07) 5535 2054		
+Citta Property Group Pty Ltd	The Pines Shopping Centre Suite 137 / 80 K P McGrath Dr, Elanora QLD 4221	(07) 3210 7300		
+Global Nirvana Group &amp; World Resorts	Lvl 14/ 167 Eagle St, Brisbane QLD 4000	(08) 8981 1242		
+Columbia Pty Ltd	Level 2/ 47 Stuart Hwy, Stuart Park NT 0820	(03) 6260 2172		
+Harvest Property	6 Wellington St, Richmond TAS 7025	(07) 5527 9286		
+Randazzo Properties Pty Ltd	320A Camden Valley Way, Narellan NSW 2567	(02) 4648 4812		
+Wellington Auctioneers &amp; Property Brokers	68 Molonga Tce, Graceville QLD 4075	(07) 3379 6455		
+Mike McCabe Real Estate	71 Birdwood Parade, Dalkeith WA 6009	0411 114 848		
+Vaste Developments Pty Ltd	2 Macquarie St, Hobart TAS 7000	(03) 9077 3577		
+Peterson Corporation Pty Ltd	258 Little Bourke St, Melbourne VIC 3000			
+Fazely Holdings Pty Ltd	Real Estate Development - Dalkeith, WA 6009			
+Hosken R W	Real Estate Development - Hobart, TAS 7000			
+Golden Gate Development Group	Real Estate Development - Melbourne, VIC 3000			
+Golden Gate Development Group	258 Little Bourke St, Melbourne VIC 3000	(03) 9077 3577		
+Kambitsis Group	150 Grenfell St, Adelaide SA 5000	(08) 8232 2777		
+GoF Developments Pty Ltd	Lvl 1/ 163 Wharf St, Spring Hill QLD 4000	(07) 3252 5511		
+Habitat Development Group	1 Goshawk Blv, Buderim QLD 4556	(03) 9829 0203		
+Santilli Group	Suite 4/Level 8/ 644 Chapel St, South Yarra VIC 3141	(03) 9826 6100		
+Majtlis Group The	443 Toorak Rd, Toorak VIC 3142	(03) 9699 7144		
+109 Clarendon Street Pty Ltd	275 City Rd, Southbank VIC 3006	(08) 8944 0900		
+Land Development Corporation	11 Export Dr, Berrimah NT 0828	1300 526 354		
+Asset 1 Development Pty Ltd	World Trade Centre 3 Yarra Tower Cct, Melbourne VIC 3000	(03) 9078 4220		
+Property Choice Pty Ltd	1/ 502 Neerim Rd, Murrumbeena VIC 3163	(02) 9822 9900		
+AC Property Developers	8 Maberley Crst, Frankston South VIC 3199	0417 308 800		
+Diverse Property Group Pty Ltd	424 Whitehorse Rd, Surrey Hills VIC 3127	(02) 9343 4660		
+Golden Gate Development Group	2 Ridgeline Way, Highland Park QLD 4211	(02) 6492 2933		
+Kirribilli Heights Estate	413 New South Head Rd, Double Bay NSW 2028	(02) 9553 6006		
+Property Investment &amp; Development Corporation Pty Ltd (PIDC)	10 Canning St, Bega NSW 2550	(03) 9525 1144		
+Caddey Searl &amp; Jarman	Level 5 574 St Kilda Rd, Melbourne VIC 3000	(07) 3821 2015		
+Kingsland Developments Australia Pty Ltd	46 Sentinel Ct, Cleveland QLD 4163	(02) 9314 2390		
+South Pacific Property Group	262 Fitzgerald Ave, Maroubra NSW 2035	(02) 9331 4855		
+Cherish Enterprises Pty Ltd	52 William St, Paddington NSW 2021	(03) 9650 1175		
+Select Developments Pty Ltd	Level 50 90 Collins St, Melbourne VIC 3000	(03) 9646 6532		
+Peejays Developments Pty Ltd	15 Beach St, Port Melbourne VIC 3207	(08) 8239 0700		
+Siang How Realty Pty Ltd	248A Melbourne St, North Adelaide SA 5006	(02) 9756 6990		
+Martin Adams Industries Pty Ltd	Unit 3/ 38 Toohey Rd, Wetherill Park NSW 2164	(03) 9537 1666		
+Gasparin Group	6 Rossall Rd, Somerton Park SA 5044	(03) 9529 6677		
+Six Jay Constructions Pty Ltd	120 Carlisle St, St Kilda VIC 3182	(07) 3348 8321		
+Black Pearl Developments Pty Ltd	Unit 1 8K High St, Prahran VIC 3181	(08) 8941 7553		
+Asheville Developments Pty Ltd	1235 Lytton Rd, Hemmant QLD 4174	(03) 9620 7788		
+Home Leader Pty Ltd	Flr 1/ 30 Austin Lane, Darwin NT 0800	(08) 8981 8150		
+Falcon Property Group	Lvl 1/10- 16 Queen St, Melbourne VIC 3000	0414 400 000		
+Elias Investments Pty Ltd	1 Briggs St, Darwin NT 0800	(07) 5448 9909		
+Parkside Properties Pty Ltd	205 Ben Boyd Rd, Neutral Bay NSW 2089	(08) 9224 0788		
+Randazzo Investments Pty Ltd	23 Lorraine Ave, Marcoola QLD 4564			
+Gilmour Property Group	Mezzanine Lvl Bgc Centre 28 The Esplanade, Perth WA 6805			
+Michael Cook Property	Real Estate Development - Marcoola, QLD 4564			
+Urban Pacific Limited	Real Estate Development - Perth, WA 6000			
+Portbury Development Co Pty Ltd	Unit 7/ 2-4 Purton Rd, Pakenham VIC 3810	(03) 5941 6244		
+Projects Consortium International	74 Molesworth St, Kew VIC 3101	(03) 9853 9833		
+MacLaw 651 Pty Ltd	35 Elizabeth St, Richmond VIC 3121	(03) 9421 2101		
+Caponero Group	2 Collins St, Melbourne VIC 3000	(03) 9827 0644		
+Hastings Conveyancing Centre	Suite 4 64 Clarence St, Port Macquarie NSW 2444	(02) 6584 7744		
+Norris Corporation	Lvl 4/ 26 Wharf St, Brisbane QLD 4000	(07) 3831 0831		
+Fortress Developments (Aust) Pty Ltd	Level 2 37 Station Rd, Indooroopilly QLD 4068	(07) 3878 8866		
+Brock Urban Projects	25 Franklin St, Adelaide SA 5000	(08) 8203 1288		
+Alessandrino Property Group	632 Burwood Rd, Hawthorn VIC 3122	(08) 9221 1965		
+Melbourne Major Projects Group	Level 5 120 Edward St, Brisbane QLD 4000	(07) 3223 3888		
+FKP Property Group	296 Williams Rd, Toorak VIC 3142	(03) 9804 8333		
+Prestige Development Enterprises Pty Ltd	36 Murphys Lane, Orange NSW 2800	(02) 6362 1050		
+Bob Healy &amp; Co	Suite 3.01 Platinum 4 Ilya Ave, Erina NSW 2250	(02) 4365 4566		
+Phillip Brand Property Developer	99 Spring St, Melbourne VIC 3000	(03) 9650 9192		
+Inner Metropolis Holdings Pty Ltd	1 Mount Cl, Edmonton QLD 4869	(07) 4045 5656		
+Stony Creek Pty Ltd	Suite 8 3 Zamia St, Sunnybank QLD 4109	(07) 3344 2329		
+JDR Property Developers Pty Ltd	57 George St, Alexandra Headland QLD 4572	(07) 5444 4900		
+A and A Property Developers	10 Cantala Ave, Caulfield North VIC 3161	0418 398 945		
+Juxgold Group	283 City Rd, Southbank VIC 3006	1300 769 881		
+Prime Property Group Pty Ltd	16 Sirius Cl, Port Macquarie NSW 2444	(08) 9364 5500		
+Gevah Constructions Pty Ltd	Suite 1/ 28 Kintail Rd, Applecross WA 6153	(03) 9827 1212		
+Bank Apartments	Level 2 627 Chapel St, South Yarra VIC 3141	(08) 9387 4455		
+Lex Wilkie	Ste 2/ 1 Flynn St, Churchlands WA 6018	(03) 9525 5525		
+WA Property Group	157 Fitzroy St, St Kilda VIC 3182	(02) 6581 1267		
+Overland Development Corporation Pty Ltd	179 Lake Rd, Port Macquarie NSW 2444	(08) 9525 4444		
+Petrelis Group	131 Abernethy Rd, Byford WA 6122	(03) 9866 3066		
+Commercial Property Ventures Pty Ltd	Lvl 14/ 10 Queens Rd, Melbourne VIC 3000	(08) 8332 8181		
+Newton J Construction (Services) Pty Ltd	182 Fullarton Rd, Dulwich SA 5065	(03) 9830 2669		
+The Glades at Byford	Ste 1/ 297 Canterbury Rd, Canterbury VIC 3126	(03) 9859 8988		
+Baron Corporation Pty Ltd	Lvl 1/ 737 High St, Kew East VIC 3102	(03) 9820 0299		
+Crownco Pty Ltd	Ste 28/ 431 St Kilda Rd, Melbourne St Kilda Rd VIC 3004	(02) 9389 6111		
+Ethan affordable housing ltd	Level 2 2 Grosvernor St, Bondi Junction NSW 2022			
+C Angelatos Group Property Developers	Real Estate Development - Kew East, VIC 3102			
+Coopersmith Holdings Pty Ltd	Real Estate Development - Melbourne St Kilda Rd, VIC 3004			
+Coombes Property Group	Real Estate Development - Bondi Junction, NSW 2022			
+J Chrapot Legal Practitioner	249 Hawthorn Rd, Caulfield North VIC 3161	(03) 9523 2000	http://www.belleproperty.com	info@belleproperty.com
+Belle Property	15 Sydney Rd, Manly NSW 2095	(02) 9976 6444	http://www.raineandhorne.com.au/charterstowers	lisa.palmer@rhct.com.au
+Raine &amp; Horne Charters Towers	63 Gill St, Charters Towers QLD 4820	(07) 4787 4788	http://www.bathurstrealestate.com.au	info@bathurstrealestate.com.au
+Bathurst Real Estate	102 William St, Bathurst NSW 2795	(02) 6331 5555	http://rh.com.au/oceanshores	julieann.manahan@oceanshores.rh.com.au
+Raine &amp; Horne Ocean Shores/Brunswick Heads	Shop 33, Ocean Village Shopping Centre Rajah Rd, Ocean Shores NSW 2483	(02) 6680 5000	http://www.belleproperty.com/portmacquarie	sue.jogever@belleproperty.com
+Belle Property Port Macquarie	98 William St, Port Macquarie NSW 2444	(02) 6583 1300	http://www.percival.com.au	sales@percival.com.au
+Percival Property Real Estate Sales	3/4 Shop 106 William St, Port Macquarie NSW 2444	(08) 8131 8900	http://www.mcgrathgroup.com.au	reception@mcgrathgroup.com.au
+McGrath Real Estate Group	42 Brighton Rd, Glenelg East SA 5045	1300 550 240	http://www.peterblackshaw.com.au	enquiries@peterblackshaw.com.au
+Peter Blackshaw Real Estate	32 Bay Rd, Mt Gambier SA 5290	(08) 8723 3416	http://www.key2sale.com.au	admin@key2sale.com.au
+Key 2 Sale Real Estate	Ground Floor, Unisys Building 91 Northbourne Ave, Turner ACT 2612	(02) 6209 1500	http://www.independent.com.au	pmenquiry@independent.com.au
+Independent Property Group	Cnr Of Old Hume Hwy and Crimea Street, Mittagong NSW 2575	(02) 4871 2622	http://www.century21.com.au/mittagong	carltonr@bigpond.net.au
+Century 21 Carlton Real Estate Mittagong	62 Clarence St, Port Macquarie NSW 2444	(02) 6584 1199	https://portmacquarie.eldersrealestate.com.au	portadmin@eldersrealestate.com.au
+Elders Real Estate Port Macquarie	67 Lime Ave, Mildura VIC 3500	(03) 5021 2200	http://www.collieandtierney.com.au	coltie@collieandtierney.com.au
+Collie &amp; Tierney	678 Ipswich Road, Corner Cracknell Rd, Annerley QLD 4103	(07) 3892 1037	http://www.matthewsrealestate.com.au	reception@matthewsrealestate.com.au
+Matthews Real Estate - R.Matthews &amp; Son Pty Ltd	35 Lake St, Cairns QLD 4870	(03) 5441 4555	http://www.quaid.com.au	properties@quaid.com.au
+Quaid Real Estate	58 Queen Street, Bendigo VIC 3550	(07) 4659 7875	http://www.bendigorealestate.com.au	salesadmin@bendigorealestate.com.au
+Bendigo Real Estate	126 Margaret St, Toowoomba City QLD 4350	(03) 6224 2004	https://www.colliers.com.au/toowoomba	reception1.toowoomba@colliers.com
+Colliers International Toowoomba	49 Sandy Bay Rd, Battery Point TAS 7004	(02) 6589 3777	http://www.nestproperty.com.au	hobart@nestproperty.com.au
+Nest Property	Suite G 1/ 147 Gordon St, Port Macquarie NSW 2444	(02) 4429 3388	http://www.mcgrath.com.au	toddbates@mcgrath.com.au
+McGrath Port Macquarie	Po Box 42, Nowra NSW 2541	(03) 9563 1711	http://business.shoalhaven.nsw.gov.au	business@shoalhaven.nsw.gov.au
+Shoalhaven City Council - Economic Development Office	30 Atherton Rd, Oakleigh VIC 3166	(07) 4922 2122	http://oakleigh.ljhooker.com.au	peter@justrentalsre.com.au
+Just Rentals Real Estate	338 Albany Hwy, Victoria Park WA 6100	(08) 9362 5333	http://www.raywhiterockhamptoncity.com.au	rockhamptoncity.qld@raywhite.com
+Ray White Rockhampton City	2460 Warburton Hwy, Yarra Junction VIC 3797	(03) 5967 1800	http://www.timeconti.com.au	cknight@timeconti.com.au
+Time Conti Sheffield	49 Bulcock St, Caloundra QLD 4551	(07) 5491 2000	http://www.mcmath.com.au	sales@mcmath.com.au
+Professionals Andrew McMath Real Estate Pty Ltd	414 Ocean View Rd, Ettalong Beach NSW 2257	(02) 4344 4483	http://www.henzells.com.au	sales@henzells.com.au
+Henzells Agency Caloundra	111 Bentinck St, Portland VIC 3305	(03) 5523 2200	http://rh.com.au/ettalongbeach	ettalongbeach@rh.com.au
+Raine &amp; Horne Ettalong Beach	143 Lime Ave, Mildura VIC 3500	(03) 5018 6800	http://www.a1realestate.solutions	admin@A1realestate.solutions
+A1 Real Estate Solutions	Suite 2/ 14 Helen St, Mt Gambier SA 5290	(08) 8725 5766	http://www.mildura.eldersrealestate.com.au	mildura@eldersre.com.au
+ELDERS DEACON REAL ESTATE MILDURA	100 John St, Singleton NSW 2330	(02) 6572 4055	http://www.gebhardts.com.au	gebhardts@bigpond.com
+Gebhardts Real Estate	Shop 1/ 170 Green Valley Rd, Green Valley NSW 2168	(02) 9826 6749	http://www.raywhitesingleton.com.au	singleton.nsw@raywhite.com
+Ray White Singleton	64 Old Barrenjoey Rd, Avalon Beach NSW 2107	(02) 9973 2999	http://www.prettirealestate.com.au	mpretti@prettirealestate.net.au
+First National Pretti	Shop 9 451 Pacific Hwy, Gosford North NSW 2250	(02) 4322 7233	http://www.avalon.ljhooker.com.au	avalon@ljh.com.au
+LJ Hooker Avalon	Real Estate Agents - Avalon Beach, NSW 2107	(02) 6922 2900	http://www.hinterlandre.com.au	enquiries@hinterlandre.com.au
+Hinterland Real Estate Ramsey Properties	Real Estate Agents - Wyoming, NSW 2250		http://www.horeanddavies.com.au	realestate@hdre.com.au
+Hore &amp; Davies Real Estate	Real Estate Agents - Wagga Wagga, NSW 2650			
+Laing+Simmons Port Macquarie	Cnr Clarence and Murray Streets, Port Macquarie NSW 2444	(02) 6583 7733	http://www.lsre.com.au/portmacquarie	portmacquarie@lsre.com.au
+Barry Plant	79 Pine Ave, Mildura VIC 3500	(03) 5023 6340	http://www.barryplant.com.au/mildura	info@barryplant.com.au
+Ray White Warrnambool	64 Banyan St, Warrnambool VIC 3280	(03) 5564 1500	http://raywhitewarrnambool.com.au	warrnambool.vic@raywhite.com
+John Cook Real Estate	153-155 Lords Pl West, Orange NSW 2800	(02) 6361 0133	http://www.johncook.com.au	enquiries@johncook.com.au
+Maxwell Collins Real Estate	55 Myers St, Geelong VIC 3220	(03) 5222 4711	http://www.maxwellcollins.com.au/index.cfm	pm@maxwellcollins.com.au
+First National Ulladulla	The Plaza Shops 1 - 2 107 Princes Hwy, Ulladulla NSW 2539	(02) 4454 4634	http://www.firstnationalulladulla.com.au	admin@firstnationalulladulla.com.au
+Chisholm &amp; Gamon Property Pty Ltd	143 Upper Heidelberg Rd, Ivanhoe VIC 3079	(03) 9531 1245	http://www.chisholmgamon.com.au	sam@chisholmgamon.com.au
+Miles Real Estate	338 West St, Umina Beach NSW 2257	(03) 9497 3222	http://www.milesre.com.au	ivanhoe@milesre.com.au
+Biggin &amp; Scott Real Estate	47 Brisbane Water Dr, Point Clare NSW 2250	(03) 9569 8789	http://www.bigginscott.com.au	advertising@bigginscott.com.au
+Raine &amp; Horne Umina Beach	138 Baylis St, Wagga Wagga NSW 2650	(02) 4344 2764	http://www.raineandhorne.com.au/uminabeach	uminabeach@rh.com.au
+Ray White	128 Church Street, Mudgee NSW 2850	(02) 4324 6122	http://www.raywhitepointclare.com.au	karen.macdonald@raywhite.com
+Fitzpatricks Real Estate	40 Kepler St, Warrnambool VIC 3280	(02) 6921 1555	http://www.fitzpatricks.com.au	sales@fitzpatricks.com.au
+First National Real Estate Mudgee	353 Crown St, Wollongong NSW 2500	(02) 6372 3000	http://fnmudgee.com.au	mail@fnmudgee.com.au
+Homeseeka Real Estate	121 Ware St, Fairfield NSW 2165	(03) 5561 0352	http://www.homeseeka.com.au	info@homeseeka.com.au
+Elders Real Estate	4/17-19 Abbott St, East Launceston TAS 7250	(02) 4228 7878	http://www.wollongong.eldersrealestate.com.au	info@elderswollongong.com
+Century 21 South West	28 High St, Epping NSW 2121	(02) 9708 9113	http://www.century21fairfield.com.au	sales@century21fairfield.com.au
+One Agency Launceston	167 Barker St, Castlemaine VIC 3450	(03) 6331 6675	http://www.oneagencylaunceston.com.au	launceston@oneagency.com.au
+NNW Property	43 Cavenagh St, Darwin NT 0800	(02) 9868 8888	http://www.nnw.com.au	sales@nnw.com.au
+Blue Moon Property	27 Melbourne Rd, Geelong VIC 3220	(07) 5441 1749	http://www.realestateagentssunshinecoast.com	info@realestatesunshinecoast.net
+Waller Realty	1075 High St, Armadale VIC 3143	(03) 5470 5811	http://www.wallerrealty.com.au	sales@wallerrealty.com.au
+Ray White Commercial (NT)	20 Tarwin St, Morwell VIC 3840	(08) 8943 3500	http://www.raywhite.com	nick.syrimi@raywhite.com
+Roncon Real Estate	19 Sorrell St, Parramatta NSW 2150	(03) 5224 2714	http://www.roncon.com.au	info@roncon.com.au
+Abercromby's Real Estate P/L	Suite 24 93 Salamanca Place, Battery Point TAS 7004	(03) 9864 5300	http://www.abercrombys.com.au	sales@abercrombys.com.au
+B.J. Bennett &amp; Co	234 Bourbong St, Bundaberg QLD 4670	(03) 5134 2790	http://www.bjbennett.com.au	mail@bjbennett.com.au
+Belle Property Parramatta	145 Herries St, Toowoomba QLD 4350	(02) 9635 5000	https://www.belleproperty.com/parramatta	sales.parramatta@belleproperty.com
+Charlotte Peterswald For Property	Unit 2 19 Gordon St, Coffs Harbour NSW 2450	(03) 6224 7090	http://www.charlottepeterswald.com.au	sales@charlottepeterswald.com.au
+McColms First National Real Estate	287 Peel St, Tamworth NSW 2340	(07) 4613 1455	http://www.mccolms.com.au	sales@mccolms.com.au
+Ray White Commercial	559 Grange Rd, Grange SA 5022	1300 037 769	http://www.raywhitecommercialtoowoomba.com	toowoombacommercial.qld@raywhite.com
+Property Professionals Australia	Shop 3 1D Moore St, Moe VIC 3825	(02) 6652 8885	http://www.propertyproaus.com.au	canberra@prosperitygroup.com.au
+McGrath Estate Agents	147 Bay Tce, Wynnum QLD 4178	(07) 4125 5244	https://www.mcgrath.com.au/offices/184-coffs-harbour	fomcoffsharbour@mcgrath.com.au
+Elders Real Estate Hervey Bay	Real Estate Agents - Torquay, QLD 4655	(02) 6763 7000	http://www.elders.com.au/herveybay	sales@eldershb.com
+PRDnationwide Tamworth	Real Estate Agents - Tamworth, NSW 2340	(08) 8353 5544	http://www.prdtam.com.au	admin@prdtam.com.au
+Ray White Grange	Real Estate Agents - Grange, SA 5022	(03) 5127 2000	http://www.raywhite.com	grange.sa@raywhite.com
+Danny Edebohls Property Sales	Real Estate Agents - Moe, VIC 3825	(07) 3348 6777	http://www.dannyedebohlspropertysales.com.au	sales@dannyedebohlspropertysales.com.au
+All Real Estate L.J. Hooker Wynnum	Real Estate Agents - Wynnum, QLD 4178		http://www.ljhooker.com.au/wynnum	wynnum@ljh.com.au
+Woodards	49 Atherton Rd, Oakleigh VIC 3166	(03) 9568 1188	http://www.woodards.com.au	oakleigh@woodards.com.au
+Barry Plant	116 Ryrie St, Geelong VIC 3220	(03) 5221 4011	http://www.barryplant.com.au/geelong	privacy@barryplant.com.au
+PRDnationwide Marsden	Marsden Park Shopping Centre 55-77 Chambers Flat Rd, Marsden QLD 4132	(07) 3805 6513	http://www.prd.com.au/marsden	marsden@prd.com.au
+Real Estate Solutions Tamworth	2/ 12A Bourke St, Tamworth NSW 2340	(02) 6766 7103	http://www.realestatesolutionstamworth.com.au	enquiries@restamworth.com.au
+Sellbuyrent Real Estate	1/ 103 Hume St, Wodonga VIC 3690	(02) 6056 9877	http://www.sbrrealestate.com.au	sales@sbrrealestate.com.au
+First National Real Estate Moss Vale	465 Argyle Street, Moss Vale NSW 2577	(02) 4869 1222	http://www.mossvalefirstnational.com.au	info@fnmv.com.au
+BRADY Residential	396 La Trobe St, Melbourne VIC 3000	(03) 9603 1400	http://www.bradyresidential.com.au	enquiries@bradyresidential.com.au
+Peter Fisher Real Estate	39 Sale St, Orange NSW 2800	(02) 6361 3265	http://www.pfisher.com.au	info@pfisher.com.au
+Ray White Rural Esk Toogoolawah	174 Ipswich St, Esk QLD 4312	(07) 5424 1968	http://www.raywhiteruralesk.com.au	rural.esk.qld@raywhite.com
+Link Real Estate	Shop 7/10 Shuter Ave, Thurgoona NSW 2640	(02) 6043 3322	http://www.linkrealestate.net.au	matt.sharp@linkrealestate.net.au
+LJ Hooker Crows Nest	2 Katoomba St, Katoomba NSW 2780	(02) 9305 7312	http://crowsnest.ljhooker.com.au	crowsnest@ljh.com.au
+Theo Poulos Real Estate	8/ 114 William St, Port Macquarie NSW 2444	(02) 4782 1888	http://www.theopoulos.com	info@theopoulos.com
+Port City Realty	Shop 3 41-47 Horton St, Port Macquarie NSW 2444	(02) 6583 5555	http://www.portcityrealty.com.au	sales@portcityrealty.com.au
+Harcourts Greater Port Macquarie	181 Conadilly St, Gunnedah NSW 2380	(02) 6741 8900	http://www.greaterportmacquarie.harcourts.com.au	greaterportmacquarie@harcourts.com.au
+Ewing Real Estate	24 Church St, North Geelong VIC 3215	(02) 6056 4288	http://www.ewingrealestate.com.au	ewing@ewingrealestate.com.au
+One Agency Albury Wodonga	98 Tasman Tce, Port Lincoln SA 5606	1300 781 118	http://oneagencyalburywodonga.com.au	alburywodonga@oneagency.com.au
+Mayfield Real Estate	77 Gill St, Charters Towers QLD 4820	(08) 8683 1803	http://www.mayfieldrealestate.com.au	mark@mayfieldrealestate.com.au
+Port Lincoln Real Estate	119 Harrington St, Hobart TAS 7000	(03) 6231 5512	http://www.plrealestate.com	sales@plrealestate.com
+Jensen's Real Estate &amp; Livestock	9a Adelaide Rd, Gawler SA 5118	(03) 5222 7772	http://www.jensensrealestate.com.au	mail@jensensrealestate.com.au
+L.J. Hooker Hobart	205 Pakington St, Geelong West VIC 3218	(02) 4341 7111	http://hobart.ljhooker.com.au	hobart@ljh.com.au
+Marley Duncan Real Estate	63 Helmsman Blv, St Huberts Island NSW 2257	(08) 8235 2334	http://www.marley.com.au	gawler@marley.com.au
+Hodges Geelong	Suite 103/145 Brebner Dr, West Lakes SA 5021	(03) 5133 9122	http://www.hodges.com.au	geelong@hodges.com.au
+Raine &amp; Horne St Huberts Island	214 Commercial Rd, Morwell VIC 3840	(03) 6331 5544	http://rh.com.au/sthubertsisland	sthubertsisland@rh.com.au
+Siebel &amp; Siebel Your Property People	152 Brisbane St, Launceston TAS 7250	(02) 6572 4000	http://www.siebelsiebel.com.au	sales@siebelsiebel.com.au
+One Agency MacAlpine Properties.	220 John St, Singleton NSW 2330	(02) 9929 8944	http://www.oneagencymacalpine.com.au	rossm@oneagency.com.au
+Stockdale &amp; Leggo Latrobe Valley	Ground Floor 66 Berry St, North Sydney NSW 2060	(02) 4943 6333	http://www.stockdaleleggo.com.au	morwell@stockdaleleggo.com.au
+Peter Lees Real Estate	157 Pacific Hwy, Charlestown NSW 2290	(03) 5454 1999	http://www.peterlees.com.au	service@peterlees.com.au
+Peter Dunn Real Estate Pty.Ltd.	Shop 12 Fountain Ct, Bendigo VIC 3550	(07) 4661 8403	http://www.peterdunn.com.au	peter@peterdunnrealestate.com.au
+Richardson &amp; Wrench North Sydney	112 Palmerin St, Warwick QLD 4370	(02) 4959 1677	http://www.rwnorthsydney.com.au	admin@c21charlestown.com.au
+Century 21 Carkeet Johns Smith	30 The Blv, Toronto NSW 2283	(07) 4152 3088	http://www.century21.com.au/charlestown	brad@phproperty.com.au
+PH Property	33 Woongarra St, Bundaberg QLD 4670	(03) 5176 0096	http://www.phproperty.com.au	brent@sdrealty.com.au
+Southern Downs Realty	19 Church St, Traralgon VIC 3844		http://www.sdrealty.com.au	info@averyproperty.com.au
+Avery Property Professionals	Real Estate Agents - Toronto, NSW 2283		http://www.averyproperty.com.au	c21wbr@century21bundababerg.com.au
+Century 21 Wide Bay Realty	Real Estate Agents - Bundaberg, QLD 4670		http://www.century21.com.au/bundaberg	
+First National Real Estate Latrobe.	Real Estate Agents - Traralgon, VIC 3844		http://www.fnlatrobe.com.au	

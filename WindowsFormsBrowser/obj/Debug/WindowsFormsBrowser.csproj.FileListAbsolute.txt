@@ -1,0 +1,16 @@
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\bin\Debug\WindowsFormsBrowser.exe.config
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\bin\Debug\WindowsFormsBrowser.exe
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\bin\Debug\WindowsFormsBrowser.pdb
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\bin\Debug\csExWB.dll
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\bin\Debug\Interop.ComUtilitiesLib.dll
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\obj\Debug\WindowsFormsBrowser.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\obj\Debug\Interop.ComUtilitiesLib.dll
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\obj\Debug\WindowsFormsBrowser.csproj.ResolveComReference.cache
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\obj\Debug\WindowsFormsBrowser.Form1.resources
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\obj\Debug\WindowsFormsBrowser.Properties.Resources.resources
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\obj\Debug\WindowsFormsBrowser.csproj.GenerateResource.Cache
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\obj\Debug\WindowsFormsBrowser.exe
+C:\Users\ibrahim\Documents\Visual Studio 2015\Projects\WebApplicationUsingAngularJS\WindowsFormsBrowser\obj\Debug\WindowsFormsBrowser.pdb
